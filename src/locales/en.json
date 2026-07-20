@@ -1,0 +1,484 @@
+{
+  "GENERAL": {
+    "maintenanceh1": "🚧 Site Under Construction 🚧",
+    "maintenancep": "We're working hard to improve the service. Please check back later!",
+    "contact": "Contact",
+    "home": "Home",
+    "introduction": "1. Introduction",
+    "contactUs": "Contact Us",
+    "contactUsP": "Please provide your contact information, and we will definitely get in touch with you.",
+    "introductionP": "First, provide us with your details, and we will contact you.",
+    "meeting": "2. Meeting",
+    "meetingP": "We will arrange a personal meeting (we can come to you) or a telephone conversation to choose the best insurance for you, taking into account your needs and budget. We will help with the formalities and everything else.",
+    "ongoingSupport": "3. Ongoing Support",
+    "ongoingSupportP": "We will stay in touch to ensure that everything is alright and assist with any other issues.",
+    "homeH1": "Welcome to Your Insurance Advisor",
+    "homeP": "My goal is to address your individual needs with a tailored insurance proposal.",
+    "homeP2": "The result of my work is satisfied clients.",
+    "heroP": "Here to Make Insurance Simple",
+    "heroH2": "I'm here to guide you through the world of insurance with clarity and care.",
+    "heroP2": "Whether you're looking for the right health, car, or home insurance, I’ll help you find a solution that fits your lifestyle and budget. My approach is personal, transparent, and fully tailored to your needs, no confusing jargon or hidden fees. Let's make sure you and your loved ones are protected, with peace of mind every step of the way.",
+    "heroCta": "Book a free consultation",
+    "heroFeature1": "Personal advice for your situation",
+    "heroFeature2": "Fast answers on coverage and price",
+    "heroFeature3": "No hidden costs, just clear recommendations",
+
+    "homeButton": "About Me",
+    "healthInsurance": "Health Insurance",
+    "healthInsuranceDescription": "Doctor, Hospitalization, Medications",
+    "lifeInsurance": "Liability Insurance",
+    "lifeInsuranceDescription": "Retirement, Disability, Death",
+    "carInsurance": "Car Insurance",
+    "carInsuranceDescription": "Theft, Collision,\n Weather conditions",
+    "houseInsurance": "Home Insurance",
+    "houseInsuranceDescription": "Burglary, Fire, Lost keys",
+    "lawProtection": "Legal Protection",
+    "lawProtectionDescription": "Consultations with a lawyer, Representation in court",
+    "swissInsurance": "First steps in Switzerland",
+    "swissInsuranceDescription": "Everything you need to get insurance",
+    "healthInsuranceDescriptionLong": "Health insurance is a critical financial tool designed to cover medical and surgical costs. Depending on the type of health insurance plan, either the insured pays out-of-pocket and is later reimbursed, or the insurer makes direct payments to the provider. Health insurance policies typically cover doctor visits, hospital stays, preventive care, and prescription medications. Some plans may also offer coverage for mental health services, vision care, and dental care. Having health insurance is essential because it helps mitigate the high costs associated with healthcare, providing individuals and families with the necessary medical care without excessive financial burden.",
+    "lifeInsuranceDescriptionLong": "Life insurance is an agreement between an individual and an insurance company, in which the insurer agrees to pay a designated beneficiary a specified sum of money upon the death of the insured person. This type of insurance provides financial protection and peace of mind by ensuring that loved ones are financially secured after the insured's death. Life insurance can cover various expenses, including funeral costs, outstanding debts, mortgage repayments, and daily living expenses. Some policies also offer living benefits, which may be available under certain conditions, providing additional financial support during the insured's lifetime.",
+    "carInsuranceDescriptionLong": "Car insurance is a policy purchased by vehicle owners to minimize the costs associated with being involved in a car accident or vehicle damage. It covers various events such as collisions, theft, vandalism, and damages caused by natural disasters. Car insurance typically includes liability coverage, which covers damages or injuries you cause to others, and may also offer comprehensive and collision coverage for your own vehicle. Additionally, policies may cover medical payments, personal injury protection, and coverage against uninsured/underinsured drivers. Having car insurance is essential for financial protection and legal compliance, ensuring that drivers can cover unexpected expenses related to their vehicles.",
+    "houseInsuranceDescriptionLong": "Home insurance, also known as homeowners insurance, provides financial protection against damage to your home and personal belongings as a result of covered events such as fire, theft, vandalism, and natural disasters. It also offers liability coverage in case someone is injured on your property or you cause damage to someone else's property. Home insurance policies typically cover the structure of the house, personal property, additional living expenses if you need to temporarily relocate, and liability. Having home insurance is crucial for protecting one of your biggest investments and ensuring financial stability in the event of unforeseen circumstances.",
+    "lawProtectionDescriptionLong": "Legal protection insurance, also known as legal expenses insurance, covers the costs associated with legal expenses incurred by the insured in the event of legal disputes. This type of insurance can help cover attorney fees, court costs, and other legal expenses in various situations such as employment disputes, contractual issues, personal injury claims, and family matters. Legal protection insurance provides access to legal advice and representation, reducing the financial burden associated with legal proceedings and ensuring that individuals can seek justice and protect their rights without worrying about high costs.",
+    "petInsuranceDescriptionLong": "Pet insurance helps cover the costs of veterinary care for your pets, ensuring they receive necessary treatment without causing financial strain. This type of insurance typically covers accidents, illnesses, surgeries, and routine care such as vaccinations and preventive treatments. Some policies may also offer coverage for hereditary and congenital conditions, dental care, and alternative therapies. Pet insurance allows pet owners to focus on the health and well-being of their furry friends rather than on the expenses associated with veterinary visits, providing peace of mind and financial support when their pets need it the most.",
+    "lukasz": "Lukasz",
+    "lukaszBergel": "Lukasz Bergel",
+    "lukaszPhone": "Tel. +41 79 482 38 96",
+    "lukaszMail": "Mail: lukasz@protegos.ch",
+    "aboutUs": "About Me",
+    "aboutUsContent": "I support individuals and families in Switzerland with personal insurance advice, clear guidance, and expert service.",
+    "aboutLukasz": "Lukasz is a dedicated insurance agent with over a decade of experience in the industry. His deep understanding of various insurance products and commitment to continuous improvement ensure that he is always up-to-date with the latest trends and changes in the insurance market. Lukasz believes in building long-term relationships with clients based on trust, transparency, and mutual respect. He takes the time to understand each client's individual situation and offers tailored insurance solutions that provide the best protection at the most competitive prices. Lukasz is fluent in Polish, German, and English, allowing him to communicate effectively with a diverse clientele and deliver personalized services that meet their specific needs. His meticulous approach, combined with genuine care for his clients' well-being, makes him a reliable and trustworthy advisor for all your insurance needs."
+  },
+  "CAR": {
+    "title": "Car Insurance",
+    "infoList": "In Switzerland, we distinguish two types of car insurance:",
+    "infoListItem1": "Liability insurance (mandatory)",
+    "infoListItem2": "Casco insurance:",
+    "infoListItem3": "partial casco (Teilkasko)",
+    "infoListItem4": "full casco (Vollkasko)",
+    "intro": {
+      "title": "Basic Insurance",
+      "p": "Basic health insurance in Switzerland, called 'Grundversicherung', is mandatory for everyone living in the country. It must be purchased within 90 days of starting work in Switzerland. It covers essential medical services such as doctor visits, hospital treatment in general wards, prescription medications, and emergency care. Everyone can choose their own insurer from many companies that offer the same legally defined services. <br> <b>Basic insurance can be changed each year until the end of November.</b>",
+      "p1": "Factors influencing the insurance premium",
+      "l1": "Vehicle value",
+      "l2": "Driver’s age",
+      "l3": "Place of residence",
+      "l4": "Driving history",
+      "l5": "Nationality"
+    },
+    "OC": {
+      "title": "Liability Insurance",
+      "p": "In Switzerland, this is a mandatory insurance for owners of motor vehicles, such as cars and motorcycles. It is required by law and is a prerequisite for registering a vehicle and obtaining license plates.​ <br> Having this insurance provides financial protection in case of third-party claims arising from road accidents. Not having a valid policy makes it illegal to drive on Swiss roads and may lead to serious legal consequences. <br> <br> Examples:",
+      "i1": "While parking, the driver damages a vehicle behind them.",
+      "i2": "Due to sunlight, the driver fails to notice a pedestrian at a crosswalk and hits them.",
+      "i3": "Oil leaks from a parked car. A motorcyclist slips on the oil and is seriously injured; the motorcycle is totally destroyed.",
+      "i4": "When getting out of a parked car, the driver fails to see an approaching cyclist. The cyclist cannot avoid the door and falls heavily."
+    },
+    "casco": {
+      "title": "Casco Insurance",
+      "p": "This is a voluntary but very popular type of car insurance that provides broad protection for vehicle owners against financial consequences resulting from damage, destruction, or loss of the vehicle. It covers damages not caused by other road users, offering protection not only in case of collisions but also in situations caused by natural events or random incidents. Casco insurance provides peace of mind due to its wide coverage, especially valuable for owners of expensive or new cars exposed to risks such as theft, weather damage, or accidents beyond the owner's control.",
+      "p2": "There are two types of Casco insurance:"
+    },
+    "teilkasko": {
+      "title": "Partial Casco (Teilkasko)",
+      "p": "Covers damages not caused by the driver's fault, such as:",
+      "i1": "fire,",
+      "i2": "damage from natural forces,",
+      "i3": "theft, robbery,",
+      "i4": "glass damage,",
+      "i5": "collisions with animals,",
+      "i6": "damage caused by animals (e.g. martens),",
+      "i7": "vandalism (e.g. broken antennas, mirrors, punctured tires)"
+    },
+    "vollkasko": {
+      "title": "Full Casco (Vollkasko)",
+      "p": "Includes all Partial Casco benefits and additionally:",
+      "li1": "damages caused by the driver (e.g. collisions with other vehicles or objects),"
+    },
+    "kask": {
+      "p2": "When to consider Casco insurance?",
+      "li2": "Teilkasko: Recommended for mid-value vehicles, typically up to 7 years old.",
+      "li3": "Vollkasko: Especially recommended for new or leased vehicles, where financial risk is higher."
+    }
+  },
+  "OC": {
+    "title": "Personal Liability Insurance",
+    "info": "Personal liability insurance is optional coverage that protects you financially if you accidentally cause harm to another person—either through injury or property damage. It’s one of the most important types of insurance for renters, pet owners, and individuals in general. While it’s not legally required, it can save you from significant compensation costs, such as flooding a neighbor’s apartment, injuring a cyclist, or damage caused by your child or pet.",
+
+    "what": {
+      "title": "What the insurance covers",
+      "il1": "Injury caused to a third party – e.g., you accidentally hit a cyclist while riding an e-scooter",
+      "il2": "Damage to someone else’s property – e.g., you break someone’s phone or flood your neighbor’s flat",
+      "il3": "Damage caused by your underage child",
+      "il4": "Damage caused by your dog (if you have one)",
+      "il5": "Damage caused by you as a tenant – e.g., you damage the wall or floor in a rented apartment"
+    },
+    "example": {
+      "title": "Examples of covered incidents",
+      "il1": "Your friend accidentally spills a glass of red wine on your dress. The stain can’t be removed.",
+      "i1": "Personal liability insurance covers the damage.",
+      "il2": "A child playing with a ball breaks a neighbor’s window by accident.",
+      "il3": "Matches left within reach of a child cause a fire that spreads to a neighbor’s shed, damaging it.",
+      "il4": "You let your dog off the leash during a walk. Feeling threatened, it bites a boy playing football.",
+      "il5": "In your rented flat, a heavy object falls into the sink and breaks it.",
+      "il6": "A step at the entrance to your home is damaged. A guest slips on it and gets injured. You’re liable for the damage."
+    }
+  },
+  "HEALTH": {
+    "title": "Health Insurance",
+    "info": "The health insurance system in Switzerland stands out from those in other countries. Every person residing in Switzerland is required to choose their own insurer and pay health insurance premiums regularly. Unlike in most European countries and many others around the world, these premiums are not automatically deducted from wages.",
+    "infoList": "There are two types of insurance:",
+    "infoListItem1": "Basic Insurance",
+    "infoListItem2": "Supplementary Insurance",
+    "basic": {
+      "title": "Basic Insurance",
+      "p": "The basic health insurance in Switzerland, called 'Grundversicherung', is mandatory for everyone residing in the country. It must be purchased within 90 days of starting work in Switzerland. It covers essential medical services, such as doctor visits, hospital treatment in a general ward, prescription medications, and emergency care. Everyone can choose their insurer from many available companies that offer the same services as defined by law. <br> <b>  The basic insurance can be changed annually until the end of November. </b>",
+      "p1": "Factors that affect the cost of basic insurance",
+      "l1": "Age",
+      "l2": "Place of residence",
+      "l3": "Deductible amount",
+      "l4": "Insurance model",
+      "l5": "Insurance company",
+      "p2": "Pillars of basic insurance",
+      "pl1": "Deductible",
+      "pl2": "Insurance model"
+    },
+    "fran": {
+      "title": "Deductible",
+      "p": "This is the amount you must pay out-of-pocket for medical services during the year before the insurer starts covering the treatment costs. <br> Keep in mind that the lower the deductible, the higher the monthly premium, and the higher the deductible, the lower the costs.",
+      "p1": "The following deductible levels are available",
+      "p2": "For adults",
+      "p3": "300 <br> 500 <br> 1000 <br> 1500 <br> 2000 <br> 2500",
+      "p5": "For children",
+      "p6": "0 <br> 100 <br> 200 <br> 300 <br> 400 <br> 500 <br> 600",
+      "p7": "Once the deductible has been reached, we must cover 10% of the remaining costs, but no more than CHF 700 for adults or CHF 350 for children. Beyond this limit, all costs are covered by the insurer.",
+      "p8": "Example",
+      "p9": "After a 5-day hospital stay, we receive a bill of CHF 10,000. <br> We assume our deductible is CHF 300.",
+      "p10": "First, we must pay the amount of our deductible, which is CHF 300.",
+      "p11": "Next, 10% of the remaining amount. <br> The remaining amount is CHF 10,000 – CHF 300 = CHF 9,700.",
+      "p12": "10% of CHF 9,700 is CHF 970 <br> (remember that the maximum amount from the remaining 10% is CHF 700) <br> so CHF 970 becomes CHF 700.",
+      "p13": "Add CHF 300 + CHF 700 = <b> CHF 1,000 </b>. <br> This is the amount we will have to pay out of pocket."
+    },
+    "model": {
+      "title": "Insurance Model",
+      "p": "The insurance model refers to the way you access medical services under your health insurance. In Switzerland, different models are available that affect the premium amount as well as the organization of healthcare services. <br> In cases of emergencies, vision problems, or annual gynecological check-ups, the choice of model does not matter.",
+      "p1": "The most popular models are:",
+      "p2": "<b> Traditional </b> <br>  You can freely choose your primary care physician and specialists (without a referral from a family doctor). It is the most expensive but offers the greatest flexibility.",
+      "p3": "<b> HMO (Health Maintenance Organization) </b> <br>  Treatment is provided within a network of designated doctors (clinics) and hospitals. Premiums are lower, but the choice of doctors is limited.",
+      "p4": "<b> Telmed </b> <br>  You first contact a telephone center, which directs you to the appropriate doctor.",
+      "p5": "<b> Family doctor model </b> <br>  You always first visit your primary care physician, who coordinates further treatment. You must choose your doctor from a list of available specialists when signing up for the policy."
+    },
+    "add": {
+      "title": "Supplementary Insurance",
+      "p": "This is voluntary health insurance that expands the range of services offered by the basic insurance. It allows you to access additional benefits, such as:",
+      "i1": "dental care,",
+      "i2": "treatment in private hospitals or clinics,",
+      "i3": "alternative treatments (e.g., homeopathy, acupuncture),",
+      "i4": "medical care abroad.",
+      "i5": "reimbursement for the purchase of glasses, gym memberships.",
+      "p2": "Opting for supplementary insurance provides greater freedom in choosing doctors, hospitals, and treatment methods, as well as better treatment conditions. Although it comes with higher premiums, the investment in supplementary insurance offers more comprehensive health protection and comfort when needed, helping to avoid high costs for medical services that are not covered by basic insurance. <br> <b> Supplementary insurance can usually be changed every 3 years, until the end of September. </b>"
+    },
+    "extra": {
+      "title": "More About Basic Insurance",
+      "p1": "Medications",
+      "i1": "Basic insurance must cover the costs of medications that are on the list approved by specialists and prescribed by a doctor. This list, which includes around 2,500 medications, is regularly updated.",
+      "p2": "Transport and Rescue within Switzerland",
+      "i2": "In cases of medical transport that does not involve an immediate life-threatening situation, basic insurance covers 50% of the costs, but no more than CHF 500 per year. Transports related to emergencies and hospital transfers are fully reimbursed.",
+      "p3": "Coverage Abroad",
+      "i3": "Basic insurance only covers essential treatment in emergency cases abroad, up to a maximum of twice the cost of the same treatment in Switzerland. For travel outside the EU/EFTA, it is recommended to purchase additional insurance.",
+      "p4": "Dentist",
+      "i4": "Basic insurance in Switzerland covers dental treatment only to a limited extent. Usually, only urgent cases are reimbursed, such as treatment following accidents (e.g., broken teeth) or treatment related to oral diseases that may affect overall health.",
+      "p5": "Gynecologist",
+      "i5": "Basic insurance covers gynecological examinations and Pap smears every three years, and if necessary, also annually (after consultation with the insurer).",
+      "p6": "Pregnancy",
+      "i6": "Basic health insurance covers the costs of services before and after childbirth. These include:",
+      "il1": "Seven routine examinations (including two ultrasounds: one between the 11th and 14th week of pregnancy and one between the 20th and 23rd week). In high-risk pregnancies, additional ultrasounds may be conducted at the doctor's request.",
+      "il2": "Preparation for childbirth and perinatal care provided by doctors or midwives – basic insurance covers a cost of CHF 150.",
+      "il3": "From the 12th week of pregnancy, a non-invasive prenatal test is performed.",
+      "il4": "Costs of home birth or birth in a general ward of a hospital in the canton of residence.",
+      "il5": "Postpartum check-up between the 6th and 10th week, and up to three lactation consultations.",
+      "p7": "It is important to note that services related to pregnancy and childbirth do not involve any co-payments or deductibles. In cases of health complications for the woman, from the 13th week of pregnancy until 8 weeks postpartum, no additional costs are incurred.",
+      "p8": "Psychotherapy",
+      "i8": "Basic insurance may cover the costs of psychological therapy, but under certain conditions. Since 1 July 2022, basic insurance covers psychological therapy provided by qualified psychotherapists, provided that the therapy is prescribed by a doctor. This means that an initial consultation with a doctor, who will provide a referral, is required.",
+      "i9": "Costs may be reimbursed according to the standard terms of the insurance, which include the deductible and co-payment (max CHF 700). Therapies conducted privately, without a doctor's referral, are generally not covered by basic insurance and require the purchase of supplementary health insurance.",
+      "p9": "Hospital Costs",
+      "i10": "The hospital must be on the list approved by the canton. If it is not on the list, you must cover the difference in treatment costs between hospitals (to avoid these costs, supplementary insurance should be purchased).",
+      "i11": "A fee of CHF 15 is required for each day of hospitalization (regardless of the type of insurance).",
+      "i12": "Costs for stays in private or semi-private facilities require supplementary insurance"
+    },
+    "newcommers": {
+      "h2": "New to Switzerland",
+      "p": "Remember, you have <b>90 days from the start of your employment</b> to get insurance. If you don't, a penalty will be applied. <br> Bills will need to be paid retroactively - exactly from the first day of registration.",
+      "p2": "Documents you need to get insurance:",
+      "item1": "1. Registration confirmation (Meldebestätigung)",
+      "item2": "2. Employment contract",
+      "item3": "3. ID card or passport",
+      "item4": "4. Bank account (optional)",
+      "p3": "This is the registration confirmation with the start date of employment and your address. To obtain this document, you need to go to the local municipality (Gemeinde) with:",
+      "p3item1": "employment contract",
+      "p3item2": "rental agreement",
+      "p3item3": "ID card",
+      "p4": "To open a bank account, you need an employment contract and a residence permit (Bewiligung). The process of getting the residence permit (Swiss ID) can take several weeks, and the whole insurance process can take significantly longer. The solution is to open an account with PostFinance bank. In this case, you only need an ID, employment contract, and registration confirmation (Meldebestätigung)."
+    }
+  },
+  "LAW": {
+    "title": "Legal protection",
+    "info": "This is a voluntary insurance that protects against costs related to legal proceedings. In case of legal conflicts, such as disputes with an employer, landlord, or after road accidents, this insurance covers, among others, lawyer fees, court costs, and possible compensation for the opposing party. It also provides support in the form of legal advice and, if necessary, legal representation. <br> <br> Having this insurance can provide peace of mind, knowing that in case of legal issues, you won't be left alone with high costs and complex procedures. <br> <br> <b> The insurance has a three-month waiting period. </b>",
+    "costs": {
+      "title": "What costs are covered by the insurance?",
+      "il1": "Legal advice",
+      "il2": "Costs of possible mediation proceedings",
+      "il3": "Lawyer fees",
+      "il4": "Expert opinion costs during proceedings",
+      "il5": "Court fees and other procedural costs",
+      "il6": "Compensation for the opposing party",
+      "il7": "Advance payment of the amount determined by the court",
+      "il8": "Debt collection costs for claims the insured can pursue after the process"
+    },
+    "priv": {
+      "title": "Which legal areas are covered by private legal protection insurance?",
+      "il1": "Labor law",
+      "il2": "Tenancy law",
+      "il3": "Criminal law",
+      "il4": "Compensation law",
+      "il5": "Patient rights law",
+      "il6": "Contract law",
+      "il7": "Insurance law"
+    }
+  },
+  "HOUSE": {
+    "title": "Home Insurance",
+    "info": "This is a voluntary household contents insurance in Switzerland that protects against financial losses caused by events such as fire, flooding, theft, or damage caused by natural forces. It covers everyday items like furniture, electronics, clothing, or bicycles. In the event of damage, the insurer covers the cost of repair or replacement. Although not mandatory, having Hausratversicherung is highly recommended to protect against unexpected expenses.",
+    "infoList": "Insured risks",
+    "infoListItem1": "Fire and natural hazard damage",
+    "infoListItem2": "Water (e.g., flooding)",
+    "infoListItem3": "Theft",
+    "infoListItem4": "Glass breakage (e.g., mirrors, glass doors)",
+    "what": {
+      "title": "What is insured?",
+      "il1": "All items not permanently attached to the building/property",
+      "il2": "Bicycles (without license plates)",
+      "il3": "Items used for business purposes are not insured",
+      "il4": "Leased or rented items",
+      "il5": "Items entrusted to you",
+      "il6": "Guest property"
+    },
+    "where": {
+      "title": "Where does the insurance apply?",
+      "il1": "At your place of residence",
+      "il2": "During relocation",
+      "il3": "During temporary travel"
+    },
+    "additional": {
+      "title": "What can be additionally insured?",
+      "il1": "Furniture glazing",
+      "il2": "Glass building elements",
+      "il3": "Petty theft outside the home",
+      "il4": "Theft of mopeds and e-bikes with license plates",
+      "il5": "Lock replacement costs"
+    },
+    "important": {
+      "title": "Important information!",
+      "li1": "Deductible for all insured risks is CHF 200.",
+      "li2": "Deductible for natural damage is CHF 500."
+    },
+    "casco": {
+      "title": "Casco Insurance (Household – KASKO)",
+      "p": "This insurance covers damages caused directly by the owner. It reimburses the purchase of a new item of equivalent value (minus the deductible).",
+      "p1": "Most commonly insured items (varies by provider):",
+      "i1": "Electric household appliances",
+      "i2": "Mobile phones",
+      "i3": "Musical instruments",
+      "i4": "PCs and laptops",
+      "i5": "Sports equipment",
+      "i6": "Luggage"
+    }
+  },
+  "CONTACT": {
+    "eyebrow": "Let's talk",
+    "contactIntro": "You can reach me directly by phone or email, or simply leave your details below and I will get back to you.",
+    "callMeTitle": "Call me",
+    "callMeText": "If it is easier, I am happy to talk by phone and answer any questions right away.",
+    "emailMeTitle": "Email me",
+    "emailMeText": "Send me a short message and I will reply with the next step.",
+    "detailsTitle": "Leave your details",
+    "detailsText": "Share your name, phone number, and email, and I will contact you as soon as I can.",
+    "formThanks": "Thank you! We will contact you soon.",
+    "formFooter": "Thank you for your trust!",
+    "formLanguage": "Choose your preferred language",
+    "formEnglish": "English",
+    "formGerman": "German",
+    "formPolish": "Polish",
+    "formGreek": "Greek",
+    "formNumber": "Phone Number",
+    "formName": "Name",
+    "formEmail": "Email Address",
+    "formSubmit": "Send request",
+    "formSubmitting": "Sending...",
+    "formMessage": "Message",
+    "validationName": "Name",
+    "validationPhone": "Phone",
+    "validationEmail": "Email",
+    "validationMessage": "Message"
+  },
+  "NAV": {
+    "primaryLabel": "Primary navigation",
+    "tagline": "Insurance guidance in Switzerland",
+    "consultation": "Free consultation",
+    "callLabel": "Call",
+    "languageLabel": "Choose language",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "ABOUT": {
+    "eyebrow": "Personal advice, built around you",
+    "advisorLabel": "Personal insurance advisor",
+    "profileEyebrow": "Your point of contact",
+    "profileTitle": "Clear answers from someone who takes the time to understand.",
+    "experienceValue": "10+ years",
+    "experienceLabel": "Industry experience",
+    "languagesValue": "PL · DE · EN",
+    "languagesLabel": "Advice in your language",
+    "locationValue": "Switzerland",
+    "locationLabel": "Local market knowledge",
+    "contactButton": "Talk to Lukasz",
+    "principlesEyebrow": "What you can expect",
+    "principlesTitle": "Advice that feels straightforward from day one",
+    "principlesIntro": "Every recommendation starts with your real situation—not a generic package.",
+    "principle1Title": "Clarity first",
+    "principle1Text": "Options, conditions, and costs are explained in plain language so you can decide with confidence.",
+    "principle2Title": "A genuinely personal review",
+    "principle2Text": "Your priorities, budget, family situation, and existing cover shape every recommendation.",
+    "principle3Title": "Support beyond the signature",
+    "principle3Text": "You keep a direct contact for questions and future changes instead of being left alone after choosing a policy."
+  },
+  "CTA": {
+    "eyebrow": "A simple first step",
+    "title": "Not sure which cover is right for you?",
+    "text": "Tell me what you want to protect. I will help you understand the options and identify a sensible next step—without pressure or confusing jargon.",
+    "button": "Request a consultation"
+  },
+  "FOOTER": {
+    "advisor": "Advisor",
+    "navigation": "Navigation",
+    "contact": "Direct contact",
+    "availability": "Personal advice in Polish, German, and English.",
+    "rights": "All rights reserved.",
+    "disclaimer": "The information on this website is general and does not replace an individual review of insurance terms and needs."
+  },
+  "HOME": {
+    "heroImageAlt": "A male climber on top of a snowy Swiss mountain",
+    "heroBadge": "Swiss insurance, made personal",
+    "heroTitle": "The right cover, without the confusion",
+    "heroLead": "I help you compare your options clearly and choose protection that fits your life, your budget, and your priorities.",
+    "heroSubcopy": "From health and home to car and life insurance, I make the process simple, transparent, and tailored to you.",
+    "heroCta": "Get in touch",
+    "secondaryCta": "Meet your advisor",
+    "heroAssurance": "Free, no-obligation first conversation",
+    "heroGalleryLabel": "Hero image gallery",
+    "heroSlideLabel": "Show image",
+    "productsEyebrow": "Cover for real life",
+    "productsHeading": "Protect what matters most",
+    "productsIntro": "From mandatory health insurance to the cover that protects your home, car, and everyday life—start with the area that matters to you.",
+    "partnersEyebrow": "Market overview",
+    "partnersTitle": "Compare solutions from established providers",
+    "trust": {
+      "label": "Why work with Protegos",
+      "experience": "10+ years",
+      "experienceText": "Insurance experience",
+      "languages": "Three languages",
+      "languagesText": "Polish, German, English",
+      "location": "Across Switzerland",
+      "locationText": "Advice for your local situation"
+    },
+    "process": {
+      "eyebrow": "How it works",
+      "title": "From questions to clear cover in three steps",
+      "intro": "A focused process that makes the important details understandable and keeps the decision in your hands.",
+      "step1Title": "Tell me what you need",
+      "step1Text": "We discuss your situation, priorities, current cover, and budget in a short first conversation.",
+      "step2Title": "Compare suitable options",
+      "step2Text": "I review relevant solutions and explain the differences, trade-offs, and costs in clear language.",
+      "step3Title": "Choose with confidence",
+      "step3Text": "You decide what fits. I help with the formalities and remain available when your situation changes."
+    },
+    "clientStories": {
+      "kicker": "Client stories",
+      "title": "Real Client Outcomes",
+      "lead": "A few practical examples of how the right supplementary coverage can reduce yearly out-of-pocket costs.",
+      "cases": [
+        {
+          "name": "Monika, 43",
+          "focus": "Traditional Chinese Medicine",
+          "body": "Monika had been visiting a recognised acupuncturist and TCM therapist for several years, spending around CHF 1,400 annually. Her previous supplementary insurance provided only limited reimbursement. After reviewing her needs, she switched to Helsana COMPLETA, which reimburses 75% of eligible complementary medicine treatments provided by recognised practitioners. Her supplementary premium increased by CHF 18 per month (CHF 216 per year). With approximately CHF 1,050 reimbursed, she continued the same treatments while substantially reducing her annual healthcare costs.",
+          "value": "Potential annual value unlocked: CHF 834"
+        },
+        {
+          "name": "Daniel, 36",
+          "focus": "Vision Care",
+          "body": "Daniel wears contact lenses during the week and replaces his prescription glasses every few years. His annual optical expenses average CHF 900. After switching to Helsana COMPLETA, he became eligible for 90% reimbursement on spectacle lenses and contact lenses, up to CHF 300 per calendar year. His supplementary premium increased by CHF 12 per month (CHF 144 annually). The optical contribution alone reduced his yearly expenses without changing where he purchased his eyewear.",
+          "value": "Potential annual value unlocked: CHF 156"
+        },
+        {
+          "name": "Sophie, 31",
+          "focus": "Fitness & Prevention",
+          "body": "Sophie enjoys strength training and pays CHF 900 per year for her gym membership. She switched to CSS Livo Top, which includes contributions towards recognised fitness centres and health promotion alongside broader outpatient benefits. Her supplementary premium increased by CHF 15 per month (CHF 180 annually). With an annual contribution towards her eligible fitness membership, she reduced the cost of maintaining an active lifestyle while gaining additional outpatient benefits she previously did not have.",
+          "value": "Potential annual value unlocked: CHF 320"
+        }
+      ]
+    }
+  },
+  "COOKIE": {
+    "ariaLabel": "Cookie consent",
+    "title": "Cookies",
+    "description": "This site uses essential cookies for core functions. With your consent, optional analytics help us understand how the site is used. No advertising cookies are used.",
+    "acceptEssential": "Accept essential cookies",
+    "acceptAll": "Accept all",
+    "readNotice": "Read our cookie and privacy notice"
+  },
+  "LEGAL": {
+    "title": "Legal & Privacy",
+    "intro": "This website uses essential cookies to keep the site working and remember your language preference. Optional analytics are activated only after you select ‘Accept all’. No advertising cookies are used.",
+    "cookieUseTitle": "What we use cookies for",
+    "cookieUse1": "To keep the site functioning properly",
+    "cookieUse2": "To remember your language preference",
+    "cookieUse3": "To measure anonymous site usage only when you consent to analytics",
+    "contactTitle": "Contact",
+    "contactText": "If you have questions about this notice, please contact us using the contact page on this website."
+  },
+  "INSURANCE_DATA": {
+    "eyebrow": "Swiss open data insight",
+    "title": "Some Swiss cantons pay far more for the same basic cover.",
+    "subtitle": "Canton and plan choice can change what you pay even with the same basic cover. This overview highlights the main differences and where add-ons may help.",
+    "officialSource": "Official source: {{source}}.",
+    "viewSource": "View source",
+    "loading": "Refreshing the official premium data...",
+    "fallback": "Live data is temporarily unavailable; the latest stored comparison is shown.",
+    "chart": {
+      "eyebrow": "Official premium comparison",
+      "title": "Adult basic insurance tariffs",
+      "sourceLabel": "Source:",
+      "highestBenchmark": "Highest 2026 benchmark (Geneva)",
+      "averageRate": "Average recorded rate",
+      "lowestBenchmark": "Lowest 2026 benchmark (Zug)"
+    },
+    "metrics": {
+      "savings": {
+        "label": "Potential annual savings",
+        "value": "CHF 600-2,000+",
+        "detail": "Depending on your supplementary health insurance and how you use it, your household could unlock CHF 600-2,000+ in annual value through benefits such as fitness memberships, alternative medicine, preventive care and other covered services - expenses you might otherwise pay entirely out of pocket."
+      },
+      "missOut": {
+        "label": "How many miss out",
+        "value": "40%+",
+        "detail": "More than 40% of Swiss buyers are not using benefits they already paid for - free value is being left on the table."
+      },
+      "supplemental": {
+        "label": "How many use supplemental cover",
+        "value": "54%",
+        "detail": "Over half of Swiss adults already choose additional insurance products, so smart top-up selection can make a meaningful difference."
+      }
+    }
+  }
+}

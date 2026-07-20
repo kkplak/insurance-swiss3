@@ -1,0 +1,483 @@
+{
+  "GENERAL": {
+    "maintenanceh1": "🚧 Seite im Aufbau 🚧",
+    "maintenancep": "Wir arbeiten hart daran, den Service zu verbessern. Bitte komm später wieder!",
+    "contact": "Kontakt",
+    "home": "Startseite",
+    "introduction": "1. Einführung",
+    "contactUs": "Kontaktieren Sie uns",
+    "contactUsP": "Bitte geben Sie Ihre Kontaktdaten an, und wir werden uns auf jeden Fall mit Ihnen in Verbindung setzen.",
+    "introductionP": "Bitte geben Sie zuerst Ihre Daten an, und wir werden uns mit Ihnen in Verbindung setzen.",
+    "meeting": "2. Treffen",
+    "meetingP": "Wir vereinbaren ein persönliches Treffen (wir können zu Ihnen kommen) oder ein Telefongespräch, um die beste Versicherung für Sie auszuwählen, unter Berücksichtigung Ihrer Bedürfnisse und Ihres Budgets. Wir helfen Ihnen bei den Formalitäten und allem Weiteren.",
+    "ongoingSupport": "3. Laufende Unterstützung",
+    "ongoingSupportP": "Wir bleiben in Kontakt, um sicherzustellen, dass alles in Ordnung ist, und helfen bei weiteren Anliegen.",
+    "homeH1": "Willkommen bei Ihrem Versicherungsberater",
+    "homeP": "Mein Ziel ist es, Ihre individuellen Bedürfnisse mit einem maßgeschneiderten Versicherungsangebot zu erfüllen.",
+    "homeP2": "Das Ergebnis meiner Arbeit sind zufriedene Kunden.",
+    "heroP": "Versicherungen einfach gemacht",
+    "heroH2": "Ich bin hier, um Sie mit Klarheit und Fürsorge durch die Welt der Versicherungen zu führen.",
+    "heroP2": "Ob Sie nun nach der richtigen Kranken-, Auto- oder Hausversicherung suchen, ich helfe Ihnen, eine Lösung zu finden, die zu Ihrem Lebensstil und Budget passt. Mein Ansatz ist persönlich, transparent und vollständig auf Ihre Bedürfnisse zugeschnitten, ohne verwirrenden Fachjargon oder versteckte Gebühren. Lassen Sie uns dafür sorgen, dass Sie und Ihre Liebsten geschützt sind – mit einem guten Gefühl in jedem Schritt.",
+    "heroCta": "Kostenloses Erstgespräch vereinbaren",
+    "heroFeature1": "Persönliche Beratung für Ihre Situation",
+    "heroFeature2": "Schnelle Antworten zu Deckung und Preis",
+    "heroFeature3": "Keine versteckten Kosten, nur klare Empfehlungen",
+    "homeButton": "Über mich",
+    "healthInsurance": "Krankenversicherung",
+    "healthInsuranceDescription": "Arzt, Krankenhausaufenthalt, Medikamente",
+    "lifeInsurance": "Haftpflichtversicherung",
+    "lifeInsuranceDescription": "Rente, Invalidität, Tod",
+    "carInsurance": "Autoversicherung",
+    "carInsuranceDescription": "Diebstahl, Unfall,\n Wetterbedingungen",
+    "houseInsurance": "Hausratversicherung",
+    "houseInsuranceDescription": "Einbruch, Feuer, Schlüsselverlust",
+    "lawProtection": "Rechtsschutz",
+    "lawProtectionDescription": "Rechtsberatung, Vertretung vor Gericht",
+    "swissInsurance": "Erste Schritte in der Schweiz",
+    "swissInsuranceDescription": "Alles, was du brauchst, um eine Versicherung zu bekommen",
+    "healthInsuranceDescriptionLong": "Die Krankenversicherung ist ein wichtiges finanzielles Instrument, das darauf ausgelegt ist, die Kosten für medizinische und chirurgische Behandlungen zu decken. Je nach Art des Krankenversicherungsplans zahlt der Versicherte entweder zunächst aus eigener Tasche und wird später entschädigt, oder der Versicherer leistet direkte Zahlungen an den Dienstleister. Krankenversicherungspolicen decken in der Regel Arztbesuche, Krankenhausaufenthalte, Vorsorgeuntersuchungen und verschreibungspflichtige Medikamente ab. Einige Pläne können auch die Kosten für psychische Gesundheitsleistungen, Sehbehandlungen und Zahnbehandlungen übernehmen. Eine Krankenversicherung ist unerlässlich, da sie dazu beiträgt, die hohen Kosten im Gesundheitswesen zu mildern, und Einzelpersonen sowie Familien die notwendige medizinische Versorgung ohne übermäßige finanzielle Belastung bietet.",
+    "lifeInsuranceDescriptionLong": "Lebensversicherung ist ein Vertrag zwischen einer Person und einem Versicherungsunternehmen, bei dem sich der Versicherer verpflichtet, dem benannten Begünstigten einen bestimmten Geldbetrag nach dem Tod der versicherten Person zu zahlen. Diese Art der Versicherung bietet finanziellen Schutz und Seelenfrieden, indem sie sicherstellt, dass die Angehörigen nach dem Tod der versicherten Person finanziell abgesichert sind. Eine Lebensversicherung kann verschiedene Ausgaben abdecken, darunter Bestattungskosten, offene Schulden, Hypothekendarlehen und tägliche Lebenshaltungskosten. Einige Policen bieten auch Lebensleistungen, die unter bestimmten Bedingungen verfügbar sein können und zusätzliche finanzielle Unterstützung während des Lebens der versicherten Person bieten.",
+    "carInsuranceDescriptionLong": "Die Autoversicherung ist eine Police, die von Fahrzeugbesitzern abgeschlossen wird, um die Kosten im Zusammenhang mit einem Autounfall oder Fahrzeugbeschädigungen zu minimieren. Sie deckt verschiedene Ereignisse ab, wie z. B. Kollisionen, Diebstahl, Vandalismus und Schäden durch Naturkatastrophen. Die Autoversicherung umfasst in der Regel eine Haftpflichtversicherung, die Schäden oder Verletzungen abdeckt, die Sie anderen zufügen, und kann auch eine Vollkasko- oder Teilkaskoversicherung für Ihr eigenes Fahrzeug bieten. Darüber hinaus können Policen auch medizinische Zahlungen, Personenschadenschutz und Schutz gegen un- oder unterversicherte Fahrer umfassen. Eine Autoversicherung ist unerlässlich für den finanziellen Schutz und die Einhaltung gesetzlicher Vorschriften, da sie sicherstellt, dass Fahrer unerwartete Ausgaben im Zusammenhang mit ihren Fahrzeugen abdecken können.",
+    "houseInsuranceDescriptionLong": "Die Hausversicherung, auch bekannt als Wohngebäudeversicherung, bietet finanziellen Schutz gegen Schäden an Ihrem Haus und persönlichen Eigentum aufgrund von in der Police abgedeckten Ereignissen wie Feuer, Einbruch, Vandalismus und Naturkatastrophen. Sie bietet auch Haftpflichtschutz, falls jemand auf Ihrem Grundstück verletzt wird oder Sie Schäden am Eigentum einer anderen Person verursachen. Hausversicherungen decken in der Regel das Gebäude, das persönliche Eigentum, zusätzliche Lebenshaltungskosten, wenn Sie vorübergehend umziehen müssen, und Haftpflicht ab. Eine Hausversicherung ist entscheidend, um eine Ihrer größten Investitionen zu schützen und finanzielle Stabilität bei unvorhergesehenen Ereignissen zu gewährleisten.",
+    "lawProtectionDescriptionLong": "Die Rechtsschutzversicherung deckt die Kosten für rechtliche Ausgaben ab, die dem Versicherten im Falle von Rechtsstreitigkeiten entstehen. Diese Art von Versicherung kann helfen, Anwaltskosten, Gerichtskosten und andere rechtliche Ausgaben in verschiedenen Situationen zu übernehmen, wie z. B. Arbeitsstreitigkeiten, Vertragsprobleme, Schadenersatzansprüche bei Verletzungen und familiäre Angelegenheiten. Die Rechtsschutzversicherung bietet Zugang zu Rechtsberatung und -vertretung, reduziert die finanzielle Belastung durch Gerichtsverfahren und stellt sicher, dass Personen ihr Recht durchsetzen und ihre Interessen schützen können, ohne sich um hohe Kosten sorgen zu müssen.",
+    "petInsuranceDescriptionLong": "Die Tierkrankenversicherung hilft, die Kosten für tierärztliche Behandlungen Ihrer Haustiere zu decken, sodass diese die notwendige medizinische Versorgung erhalten, ohne dass dies zu finanziellen Belastungen führt. Diese Art der Versicherung deckt in der Regel Unfälle, Krankheiten, Operationen und routinemäßige Vorsorgeuntersuchungen wie Impfungen und prophylaktische Behandlungen ab. Einige Policen können auch Leistungen für erbliche und angeborene Erkrankungen, zahnärztliche Versorgung und alternative Therapien umfassen. Die Tierkrankenversicherung ermöglicht es Tierhaltern, sich auf die Gesundheit und das Wohlbefinden ihrer Haustiere zu konzentrieren, anstatt auf die Kosten von Tierarztbesuchen, und bietet so Seelenfrieden und finanzielle Unterstützung, wenn ihre tierischen Freunde es am dringendsten benötigen.",
+    "lukasz": "Lukasz",
+    "lukaszBergel": "Lukasz Bergel",
+    "lukaszPhone": "+41 79 482 38 96",
+    "lukaszMail": "lukasz@protegos.ch",
+    "aboutUs": "Über mich",
+    "aboutUsContent": "Ich unterstütze Privatpersonen und Familien in der Schweiz mit persönlicher Versicherungsberatung, klarer Orientierung und fachkundigem Service.",
+    "aboutLukasz": "Lukasz ist ein engagierter Versicherungsagent mit über zehn Jahren Branchenerfahrung. Sein tiefgehendes Verständnis verschiedener Versicherungsprodukte und sein Engagement für kontinuierliche Verbesserung sorgen dafür, dass er stets über die neuesten Trends und Änderungen auf dem Versicherungsmarkt informiert ist. Lukasz glaubt daran, langfristige Beziehungen zu seinen Kunden aufzubauen, basierend auf Vertrauen, Transparenz und gegenseitigem Respekt. Er nimmt sich die Zeit, die individuelle Situation jedes Kunden zu verstehen und bietet maßgeschneiderte Versicherungslösungen, die den bestmöglichen Schutz zu den wettbewerbsfähigsten Preisen gewährleisten. Lukasz spricht fließend Polnisch, Deutsch und Englisch, was ihm ermöglicht, effektiv mit einer vielfältigen Kundschaft zu kommunizieren und personalisierte Dienstleistungen anzubieten, die ihren spezifischen Bedürfnissen entsprechen. Sein sorgfältiger Ansatz, verbunden mit aufrichtigem Interesse am Wohl seiner Kunden, macht ihn zu einem zuverlässigen und vertrauenswürdigen Berater für alle Ihre Versicherungsbedürfnisse."
+  },
+  "CAR": {
+    "title": "Autoversicherung",
+    "infoList": "In der Schweiz unterscheiden wir zwei Arten von Autoversicherungen:",
+    "infoListItem1": "Haftpflichtversicherung (obligatorisch)",
+    "infoListItem2": "Kaskoversicherung:",
+    "infoListItem3": "Teilkasko",
+    "infoListItem4": "Vollkasko",
+    "intro": {
+      "title": "Grundversicherung",
+      "p": "Die Grundversicherung in der Schweiz, auch „Grundversicherung“ genannt, ist für alle Personen mit Wohnsitz in der Schweiz obligatorisch. Sie muss innerhalb von 90 Tagen nach Arbeitsbeginn abgeschlossen werden. Sie deckt die wichtigsten medizinischen Leistungen ab, wie Arztbesuche, Behandlungen im Spital auf der allgemeinen Abteilung, verschreibungspflichtige Medikamente und Notfallhilfe. Jeder kann seinen Versicherer frei wählen – alle bieten die gesetzlich vorgeschriebenen Leistungen an. <br> <b>Die Grundversicherung kann jedes Jahr bis Ende November gewechselt werden.</b>",
+      "p1": "Einflussfaktoren auf die Prämie",
+      "l1": "Fahrzeugwert",
+      "l2": "Alter des Fahrers",
+      "l3": "Wohnort",
+      "l4": "Fahrverlauf",
+      "l5": "Nationalität"
+    },
+    "OC": {
+      "title": "Haftpflichtversicherung",
+      "p": "In der Schweiz ist diese Versicherung für Halter von Motorfahrzeugen wie Autos oder Motorrädern obligatorisch. Sie ist gesetzlich vorgeschrieben und Voraussetzung für die Zulassung eines Fahrzeugs und das Erhalten von Nummernschildern.​ <br> Sie bietet finanziellen Schutz bei Haftpflichtansprüchen Dritter nach Verkehrsunfällen. Ohne gültige Versicherung ist das Fahren auf Schweizer Straßen illegal und kann schwerwiegende rechtliche Folgen haben. <br> <br> Beispiele:",
+      "i1": "Beim Einparken beschädigt der Fahrer das nachfolgende Fahrzeug.",
+      "i2": "Durch Sonnenlicht sieht der Fahrer einen Fußgänger an einem Zebrastreifen zu spät und fährt ihn an.",
+      "i3": "Aus einem geparkten Auto läuft Öl aus. Ein Motorradfahrer rutscht aus, verletzt sich schwer und das Motorrad ist total beschädigt.",
+      "i4": "Beim Aussteigen aus dem Auto übersieht der Fahrer einen Radfahrer. Dieser kann nicht mehr ausweichen und stürzt schwer."
+    },
+    "casco": {
+      "title": "Kaskoversicherung",
+      "p": "Diese freiwillige, aber weit verbreitete Versicherung schützt Autobesitzer umfassend vor finanziellen Folgen durch Beschädigung, Zerstörung oder Verlust des Fahrzeugs. Sie deckt Schäden ab, die nicht durch andere Verkehrsteilnehmer verursacht wurden – also auch bei Naturereignissen oder unvorhersehbaren Umständen. Besonders sinnvoll ist sie für neue oder teure Fahrzeuge, die einem erhöhten Risiko ausgesetzt sind, z. B. Diebstahl oder Wetterereignisse.",
+      "p2": "Man unterscheidet zwei Arten von Kaskoversicherung:"
+    },
+    "teilkasko": {
+      "title": "Teilkasko",
+      "p": "Deckt Schäden ab, die nicht durch eigenes Verschulden entstanden sind, z. B.:",
+      "i1": "Brand,",
+      "i2": "Naturgewalten,",
+      "i3": "Diebstahl, Raub,",
+      "i4": "Glasschäden,",
+      "i5": "Kollisionen mit Tieren,",
+      "i6": "Tierschäden (z. B. Marder),",
+      "i7": "Vandalismus (z. B. abgerissene Antennen, Spiegel, zerstoßene Reifen)"
+    },
+    "vollkasko": {
+      "title": "Vollkasko",
+      "p": "Umfasst alle Leistungen der Teilkasko sowie zusätzlich:",
+      "li1": "Schäden durch eigenes Verschulden (z. B. Kollisionen mit anderen Fahrzeugen oder Objekten),"
+    },
+    "kask": {
+      "p2": "Wann lohnt sich eine Kaskoversicherung?",
+      "li2": "Teilkasko: Empfohlen für Fahrzeuge mittlerer Preisklasse, in der Regel bis 7 Jahre alt.",
+      "li3": "Vollkasko: Besonders geeignet für neue oder geleaste Fahrzeuge mit hohem finanziellen Risiko."
+    }
+  },
+  "OC": {
+    "title": "Privathaftpflichtversicherung",
+    "info": "Die Privathaftpflichtversicherung ist eine freiwillige Versicherung, die dich finanziell schützt, wenn du versehentlich einer dritten Person Schaden zufügst – sei es durch Körperverletzung oder Sachschäden. Sie zählt zu den wichtigsten Versicherungen für Mieter, Tierhalter und Privatpersonen im Allgemeinen. Auch wenn sie gesetzlich nicht vorgeschrieben ist, kann sie dich vor hohen Schadenersatzforderungen bewahren, z. B. bei der Überschwemmung der Wohnung des Nachbarn, einem Unfall mit einem Radfahrer oder Schäden, die durch dein Kind oder Haustier verursacht werden.",
+
+    "what": {
+      "title": "Was die Versicherung abdeckt",
+      "il1": "Schäden an Dritten – z. B. du stößt mit einem E-Scooter einen Radfahrer an",
+      "il2": "Zerstörung fremden Eigentums – z. B. du zerbrichst jemandes Handy oder verursachst einen Wasserschaden bei deinem Nachbarn",
+      "il3": "Schäden, die durch dein minderjähriges Kind verursacht werden",
+      "il4": "Schäden, die durch deinen Hund verursacht werden (falls vorhanden)",
+      "il5": "Schäden, die du als Mieter verursachst – z. B. du beschädigst Wände oder den Boden"
+    },
+    "example": {
+      "title": "Beispiele für versicherte Schäden",
+      "il1": "Eine Freundin verschüttet versehentlich ein Glas Rotwein auf dein Kleid. Der Stoff lässt sich nicht mehr reinigen.",
+      "i1": "Die Privathaftpflichtversicherung übernimmt den Schaden.",
+      "il2": "Ein Kind spielt mit einem Ball und zerbricht dabei versehentlich das Fenster des Nachbarn.",
+      "il3": "Schlecht aufbewahrte Streichhölzer geraten in Kinderhände. Beim Spielen entsteht ein Feuer, das auf die Nachbarscheune übergreift und Schäden verursacht.",
+      "il4": "Du lässt deinen Hund während des Spaziergangs von der Leine. Er fühlt sich bedroht und beißt einen spielenden Jungen.",
+      "il5": "In der Mietwohnung fällt ein schwerer Gegenstand ins Waschbecken und zerbricht es.",
+      "il6": "Eine Stufe am Hauseingang ist beschädigt. Ein Besucher rutscht aus und verletzt sich. Du haftest für den Schaden."
+    }
+  },
+  "HEALTH": {
+    "title": "Krankenversicherung",
+    "info": "Das Krankenversicherungssystem in der Schweiz hebt sich von den Systemen in anderen Ländern ab. Jede in der Schweiz lebende Person ist verpflichtet, selbst einen Versicherer auszuwählen und regelmäßig Krankenversicherungsprämien zu zahlen. Im Gegensatz zu den meisten europäischen Ländern und vielen anderen Staaten weltweit werden diese Prämien nicht automatisch vom Gehalt abgezogen.",
+    "infoList": "Es gibt zwei Arten von Versicherungen:",
+    "infoListItem1": "Grundversicherung",
+    "infoListItem2": "Zusatzversicherung",
+    "basic": {
+      "title": "Grundversicherung",
+      "p": "Die Grundversicherung in der Schweiz, genannt 'Grundversicherung', ist für jeden, der in diesem Land wohnt, verpflichtend. Sie muss innerhalb von 90 Tagen nach Arbeitsbeginn in der Schweiz abgeschlossen werden. Sie deckt die wichtigsten medizinischen Leistungen ab, wie Arztbesuche, Krankenhausbehandlungen auf einer Allgemeinstation, verschreibungspflichtige Medikamente und Notfallversorgung. Jeder kann seinen Versicherer aus den vielen verfügbaren Unternehmen auswählen, die gesetzlich festgelegte Leistungen anbieten. <br> <b>  Die Grundversicherung kann jährlich bis Ende November gewechselt werden. </b>",
+      "p1": "Faktoren, die den Preis der Grundversicherung beeinflussen",
+      "l1": "Alter",
+      "l2": "Wohnort",
+      "l3": "Höhe der Franchise",
+      "l4": "Versicherungsmodell",
+      "l5": "Versicherungsgesellschaft",
+      "p2": "Säulen der Grundversicherung",
+      "pl1": "Franchise",
+      "pl2": "Versicherungsmodell"
+    },
+    "fran": {
+      "title": "Franchise",
+      "p": "Die Franchise ist der Betrag, den Sie im Laufe eines Jahres für medizinische Leistungen aus eigener Tasche bezahlen müssen, bevor der Versicherer die Behandlungskosten übernimmt. <br> Beachten Sie, dass eine niedrigere Franchise mit höheren monatlichen Prämien verbunden ist, während eine höhere Franchise zu niedrigeren Kosten führt.",
+      "p1": "Folgende Franchise-Stufen stehen zur Auswahl",
+      "p2": "Für Erwachsene",
+      "p3": "300 <br> 500 <br> 1000 <br> 1500 <br> 2000 <br> 2500",
+      "p5": "Für Kinder",
+      "p6": "0 <br> 100 <br> 200 <br> 300 <br> 400 <br> 500 <br> 600",
+      "p7": "Sobald der Selbstbehalt erreicht ist, müssen wir 10 % der verbleibenden Kosten übernehmen, jedoch nicht mehr als CHF 700 für Erwachsene bzw. CHF 350 für Kinder. Über diesen Betrag hinaus übernimmt der Versicherer alle Kosten.",
+      "p8": "Beispiel",
+      "p9": "Nach einem fünftägigen Krankenhausaufenthalt erhalten wir eine Rechnung über CHF 10’000. <br> Wir gehen davon aus, dass unser Selbstbehalt CHF 300 beträgt.",
+      "p10": "Zuerst müssen wir unseren Selbstbehalt in Höhe von CHF 300 bezahlen.",
+      "p11": "Anschließend 10% des verbleibenden Betrags. <br> Der verbleibende Betrag ist CHF 10’000 – CHF 300 = CHF 9’700.",
+      "p12": "10% von CHF 9’700 sind CHF 970 <br> (denken wir daran, dass der maximale Betrag der verbleibenden 10% CHF 700 beträgt) <br> also werden aus CHF 970 nur CHF 700.",
+      "p13": "Wir addieren CHF 300 + CHF 700 = <b> CHF 1’000 </b>. <br> Das ist der Betrag, den wir aus eigener Tasche bezahlen müssen."
+    },
+    "model": {
+      "title": "Versicherungsmodell",
+      "p": "Das Versicherungsmodell beschreibt, wie Sie die medizinischen Leistungen Ihrer Krankenversicherung in Anspruch nehmen. In der Schweiz gibt es verschiedene Modelle, die sich auf die Prämienhöhe und die Organisation der Gesundheitsversorgung auswirken. <br> Bei Notfällen, Sehstörungen oder jährlichen gynäkologischen Untersuchungen spielt die Wahl des Modells keine Rolle.",
+      "p1": "Die beliebtesten Modelle sind:",
+      "p2": "<b> Traditionell </b> <br>  Sie können Ihren Hausarzt und Spezialisten frei wählen (ohne Überweisung vom Hausarzt). Dies ist die teuerste Option, bietet jedoch die größte Flexibilität.",
+      "p3": "<b> HMO (Health Maintenance Organization) </b> <br>  Die Behandlung erfolgt innerhalb eines Netzwerks von festgelegten Ärzten (Praxen) und Krankenhäusern. Die Prämien sind niedriger, aber die Auswahl an Ärzten ist begrenzt.",
+      "p4": "<b> Telmed </b> <br>  Zunächst kontaktieren Sie ein telefonisches Zentrum, das Sie an den passenden Arzt weiterleitet.",
+      "p5": "<b> Hausarztmodell </b> <br>  Sie gehen stets zuerst zu Ihrem Hausarzt, der die weitere Behandlung koordiniert. Ihren Hausarzt wählen Sie aus einer Liste verfügbarer Fachärzte beim Vertragsabschluss."
+    },
+    "add": {
+      "title": "Zusatzversicherung",
+      "p": "Dies ist eine freiwillige Krankenversicherung, die den Leistungskatalog der Grundversicherung erweitert. Damit können zusätzliche Leistungen in Anspruch genommen werden, wie zum Beispiel:",
+      "i1": "Zahnbehandlung,",
+      "i2": "Aufenthalt in privaten Krankenhäusern oder Kliniken,",
+      "i3": "alternative Behandlungsmethoden (z. B. Homöopathie, Akupunktur),",
+      "i4": "medizinische Versorgung im Ausland.",
+      "i5": "Kostenrückerstattung für den Kauf von Brillen, Fitnessstudio-Mitgliedschaften.",
+      "p2": "Die Wahl einer Zusatzversicherung bietet größere Freiheit bei der Auswahl von Ärzten, Krankenhäusern und Behandlungsmethoden sowie bessere Behandlungsbedingungen. Obwohl sie mit höheren Prämien verbunden ist, bietet die Investition in eine Zusatzversicherung einen umfassenderen Gesundheitsschutz und mehr Komfort im Bedarfsfall, sodass hohe Kosten für medizinische Leistungen, die nicht von der Grundversicherung abgedeckt sind, vermieden werden können. <br> <b> Die Zusatzversicherung kann in der Regel alle drei Jahre bis spätestens Ende September geändert werden. </b>"
+    },
+    "extra": {
+      "title": "Mehr zur Grundversicherung",
+      "p1": "Medikamente",
+      "i1": "Die Grundversicherung muss die Kosten für Medikamente übernehmen, die auf der von Fachärzten genehmigten Liste stehen und von einem Arzt verschrieben wurden. Diese Liste, die etwa 2.500 Medikamente umfasst, wird regelmäßig aktualisiert.",
+      "p2": "Transport und Rettung innerhalb der Schweiz",
+      "i2": "Bei einem medizinischen Transport, der nicht mit einer akuten Lebensgefahr verbunden ist, übernimmt die Grundversicherung 50% der Kosten, jedoch nicht mehr als CHF 500 pro Jahr. Notfalltransporte sowie Krankenhaustransporte werden vollständig erstattet.",
+      "p3": "Auslandsdeckung",
+      "i3": "Die Grundversicherung deckt im Ausland nur notwendige Behandlungen in Notfällen ab, bis zu einem Höchstbetrag von maximal dem Doppelten der Kosten derselben Behandlung in der Schweiz. Für Reisen außerhalb der EU/EFTA wird empfohlen, eine Zusatzversicherung abzuschließen.",
+      "p4": "Zahnarzt",
+      "i4": "Die Grundversicherung in der Schweiz deckt zahnärztliche Behandlungen nur in begrenztem Umfang ab. In der Regel werden nur dringende Fälle erstattet, wie z. B. die Behandlung von Unfallverletzungen (z. B. abgebrochene Zähne) oder Behandlungen im Zusammenhang mit Mundkrankheiten, die die allgemeine Gesundheit beeinträchtigen können.",
+      "p5": "Gynäkologe",
+      "i5": "Die Grundversicherung übernimmt gynäkologische Untersuchungen und Pap-Tests alle drei Jahre, und bei Bedarf auch jährlich (nach Absprache mit dem Versicherer).",
+      "p6": "Schwangerschaft",
+      "i6": "Die Grundversicherung deckt die Kosten von Leistungen vor und nach der Geburt ab. Diese umfassen:",
+      "il1": "Sieben Routineuntersuchungen (darunter zwei Ultraschalluntersuchungen: eine zwischen der 11. und 14. Schwangerschaftswoche und eine zwischen der 20. und 23. Schwangerschaftswoche). Bei Risikoschwangerschaften können auf ärztlichen Anraten zusätzliche Ultraschalluntersuchungen durchgeführt werden.",
+      "il2": "Geburtsvorbereitung und perinatale Betreuung durch Ärzte oder Hebammen – die Grundversicherung übernimmt Kosten in Höhe von CHF 150.",
+      "il3": "Ab der 12. Schwangerschaftswoche wird ein nicht-invasiver pränataler Test durchgeführt.",
+      "il4": "Kosten für eine Hausgeburt oder eine Geburt in der Allgemeinstation eines Krankenhauses im Kanton des Wohnsitzes.",
+      "il5": "Nachsorgeuntersuchung zwischen der 6. und 10. Woche nach der Geburt sowie maximal drei Stillberatungen.",
+      "p7": "Es ist wichtig zu beachten, dass Leistungen im Zusammenhang mit Schwangerschaft und Geburt ohne Selbstbeteiligung oder Franchise erbracht werden. Bei gesundheitlichen Komplikationen der Frau, von der 13. Schwangerschaftswoche bis 8 Wochen nach der Geburt, fallen keine zusätzlichen Kosten an.",
+      "p8": "Psychotherapie",
+      "i8": "Die Grundversicherung kann unter bestimmten Bedingungen die Kosten für psychotherapeutische Behandlungen übernehmen. Seit dem 1. Juli 2022 deckt die Grundversicherung psychologische Therapien ab, die von qualifizierten Psychotherapeuten durchgeführt werden, sofern die Therapie auf ärztliche Anordnung erfolgt. Das bedeutet, dass zunächst eine ärztliche Konsultation erforderlich ist, die eine Überweisung für diese Therapie ausstellt.",
+      "i9": "Die Kosten können gemäß den Standardbedingungen der Versicherung erstattet werden, d.h. unter Berücksichtigung der Franchise und der Selbstbeteiligung (max. CHF 700). Privat durchgeführte Therapien ohne ärztliche Überweisung werden in der Regel nicht von der Grundversicherung erstattet und erfordern den Abschluss einer Zusatzversicherung.",
+      "p9": "Krankenhauskosten",
+      "i10": "Das Krankenhaus muss auf der vom Kanton genehmigten Liste stehen. Falls es nicht auf der Liste ist, müssen Sie die Differenz der Behandlungskosten zwischen den Krankenhäusern selbst tragen (um diese Kosten zu vermeiden, sollten Sie eine Zusatzversicherung abschließen).",
+      "i11": "Für jeden Tag des Krankenhausaufenthalts fällt eine Gebühr von CHF 15 an (unabhängig vom Versicherungsmodell).",
+      "i12": "Kosten für einen Aufenthalt in einer privaten oder halbprivaten Einrichtung erfordern eine Zusatzversicherung"
+    },
+    "newcommers": {
+      "h2": "Neu in der Schweiz",
+      "p": "Denke daran, dass du <b>90 Tage ab Arbeitsbeginn</b> hast, um eine Versicherung abzuschließen. Wenn du dies nicht tust, wird eine Strafe erhoben. <br> Rechnungen müssen rückwirkend bezahlt werden - genau ab dem ersten Tag der Anmeldung.",
+      "p2": "Dokumente, die du für die Versicherung benötigst:",
+      "item1": "1. Anmeldebestätigung (Meldebestätigung)",
+      "item2": "2. Arbeitsvertrag",
+      "item3": "3. Personalausweis oder Reisepass",
+      "item4": "4. Bankkonto (optional)",
+      "p3": "Dies ist die Anmeldebestätigung mit dem Beginn des Arbeitsverhältnisses und der Adresse. Um dieses Dokument zu erhalten, musst du zum örtlichen Gemeindeamt (Gemeinde) gehen mit:",
+      "p3item1": "Arbeitsvertrag",
+      "p3item2": "Mietvertrag",
+      "p3item3": "Personalausweis",
+      "p4": "Für die Eröffnung eines Bankkontos benötigst du einen Arbeitsvertrag und eine Aufenthaltserlaubnis (Bewiligung). Der Prozess der Erlangung der Aufenthaltserlaubnis (Schweizer ID) kann mehrere Wochen dauern, und der gesamte Versicherungsprozess kann sich erheblich verlängern. Die Lösung ist, ein Konto bei der PostFinance Bank zu eröffnen. In diesem Fall benötigst du nur einen Ausweis, den Arbeitsvertrag und die Anmeldebestätigung (Meldebestätigung)."
+    }
+  },
+  "LAW": {
+    "title": "Rechtsschutz",
+    "info": "Dies ist eine freiwillige Versicherung, die vor Kosten im Zusammenhang mit rechtlichen Verfahren schützt. Bei rechtlichen Konflikten, wie Streitigkeiten mit dem Arbeitgeber, Vermieter oder nach Verkehrsunfällen, übernimmt diese Versicherung unter anderem Anwaltsgebühren, Gerichtskosten sowie eventuelle Entschädigungen für die Gegenseite. Sie bietet auch Unterstützung in Form von Rechtsberatung und, falls erforderlich, Vertretung durch einen Anwalt. <br> <br> Der Besitz dieser Versicherung kann ein beruhigendes Gefühl vermitteln, da man bei rechtlichen Problemen nicht allein mit hohen Kosten und komplizierten Verfahren dasteht. <br> <br> <b> Die Versicherung hat eine Wartefrist von drei Monaten. </b>",
+    "costs": {
+      "title": "Welche Kosten deckt die Versicherung ab?",
+      "il1": "Rechtsberatung",
+      "il2": "Kosten möglicher Mediationsverfahren",
+      "il3": "Anwaltsgebühren",
+      "il4": "Gutachterkosten im Verfahren",
+      "il5": "Gerichtsgebühren und sonstige Verfahrenskosten",
+      "il6": "Prozessentschädigung zugunsten der Gegenseite",
+      "il7": "Vorschusszahlung auf vom Gericht festgelegte Beträge",
+      "il8": "Inkassokosten für Forderungen, die der Versicherte nach dem Verfahren geltend machen kann"
+    },
+    "priv": {
+      "title": "Welche Rechtsbereiche sind durch den privaten Rechtsschutz abgedeckt?",
+      "il1": "Arbeitsrecht",
+      "il2": "Mietrecht",
+      "il3": "Strafrecht",
+      "il4": "Schadenersatzrecht",
+      "il5": "Patientenrecht",
+      "il6": "Vertragsrecht",
+      "il7": "Versicherungsrecht"
+    }
+  },
+  "HOUSE": {
+    "title": "Hausratversicherung",
+    "info": "Dies ist eine freiwillige Versicherung für bewegliche Güter in der Schweiz, die vor finanziellen Verlusten durch Ereignisse wie Brand, Wasserschäden, Diebstahl oder Naturgewalten schützt. Sie deckt Alltagsgegenstände wie Möbel, Elektronik, Kleidung oder Fahrräder. Im Schadensfall übernimmt der Versicherer die Kosten für Reparatur oder Ersatz. Obwohl sie nicht obligatorisch ist, wird der Abschluss einer Hausratversicherung dringend empfohlen, um sich vor unerwarteten Ausgaben zu schützen.",
+    "infoList": "Versicherte Risiken",
+    "infoListItem1": "Feuer und Elementarschäden",
+    "infoListItem2": "Wasser (z. B. Überschwemmung)",
+    "infoListItem3": "Diebstahl",
+    "infoListItem4": "Glasbruch (z. B. Spiegel, Glastüren)",
+    "what": {
+      "title": "Was ist versichert?",
+      "il1": "Alle Gegenstände, die nicht fest mit dem Gebäude verbunden sind",
+      "il2": "Fahrräder (ohne Nummernschild)",
+      "il3": "Gegenstände, die für geschäftliche Zwecke genutzt werden, sind nicht versichert",
+      "il4": "Gepachtete oder gemietete Gegenstände",
+      "il5": "Anvertraute Gegenstände",
+      "il6": "Gegenstände von Gästen"
+    },
+    "where": {
+      "title": "Wo gilt die Versicherung?",
+      "il1": "Am Wohnort",
+      "il2": "Während eines Umzugs",
+      "il3": "Während eines vorübergehenden Aufenthalts"
+    },
+    "additional": {
+      "title": "Was kann zusätzlich versichert werden?",
+      "il1": "Verglasung von Möbeln",
+      "il2": "Glaselemente des Gebäudes",
+      "il3": "Kleindiebstahl außerhalb des Hauses",
+      "il4": "Diebstahl von Mofas und E-Bikes mit Nummernschild",
+      "il5": "Kosten für den Austausch von Türschlössern"
+    },
+    "important": {
+      "title": "Wichtige Informationen!",
+      "li1": "Der Selbstbehalt für alle versicherten Risiken beträgt CHF 200.",
+      "li2": "Der Selbstbehalt bei Naturereignissen beträgt CHF 500."
+    },
+    "casco": {
+      "title": "Casco-Versicherung (Hausrat – KASKO)",
+      "p": "Diese Versicherung deckt Schäden, die direkt durch den Besitzer verursacht wurden. Die Versicherung erstattet den Kauf eines gleichwertigen neuen Gegenstands (abzüglich Selbstbehalt).",
+      "p1": "Häufig versicherte Gegenstände (je nach Anbieter unterschiedlich):",
+      "i1": "Elektrische Haushaltsgeräte",
+      "i2": "Mobiltelefone",
+      "i3": "Musikinstrumente",
+      "i4": "PCs und Laptops",
+      "i5": "Sportgeräte",
+      "i6": "Reisegepäck"
+    }
+  },
+  "CONTACT": {
+    "eyebrow": "Lassen Sie uns sprechen",
+    "contactIntro": "Sie können mich direkt telefonisch oder per E-Mail erreichen oder einfach Ihre Daten unten hinterlassen, und ich melde mich bei Ihnen.",
+    "callMeTitle": "Rufen Sie mich an",
+    "callMeText": "Wenn es Ihnen leichter fällt, bespreche ich gerne Ihre Fragen direkt telefonisch.",
+    "emailMeTitle": "Schreiben Sie mir",
+    "emailMeText": "Senden Sie mir eine kurze Nachricht, und ich antworte Ihnen mit dem nächsten Schritt.",
+    "detailsTitle": "Hinterlassen Sie Ihre Daten",
+    "detailsText": "Teilen Sie mir Ihren Namen, Ihre Telefonnummer und Ihre E-Mail-Adresse mit, und ich melde mich so schnell wie möglich bei Ihnen.",
+    "formThanks": "Vielen Dank! Wir werden uns in Kürze mit Ihnen in Verbindung setzen.",
+    "formLanguage": "Wählen Sie Ihre bevorzugte Sprache",
+    "formFooter": "Danke für Ihr Vertrauen!",
+    "formEnglish": "Englisch",
+    "formGerman": "Deutsch",
+    "formPolish": "Polnisch",
+    "formGreek": "Griechisch",
+    "formNumber": "Telefonnummer",
+    "formName": "Name",
+    "formEmail": "E-Mail-Adresse",
+    "formSubmit": "Anfrage senden",
+    "formSubmitting": "Wird gesendet...",
+    "formMessage": "Nachricht",
+    "validationName": "Name",
+    "validationPhone": "Telefon",
+    "validationEmail": "E-Mail",
+    "validationMessage": "Nachricht"
+  },
+  "NAV": {
+    "primaryLabel": "Hauptnavigation",
+    "tagline": "Versicherungsberatung in der Schweiz",
+    "consultation": "Kostenlose Beratung",
+    "callLabel": "Anrufen",
+    "languageLabel": "Sprache wählen",
+    "openMenu": "Menü öffnen",
+    "closeMenu": "Menü schließen"
+  },
+  "ABOUT": {
+    "eyebrow": "Persönliche Beratung, die zu Ihnen passt",
+    "advisorLabel": "Persönlicher Versicherungsberater",
+    "profileEyebrow": "Ihr direkter Ansprechpartner",
+    "profileTitle": "Klare Antworten von jemandem, der Ihre Situation wirklich verstehen möchte.",
+    "experienceValue": "10+ Jahre",
+    "experienceLabel": "Branchenerfahrung",
+    "languagesValue": "PL · DE · EN",
+    "languagesLabel": "Beratung in Ihrer Sprache",
+    "locationValue": "Schweiz",
+    "locationLabel": "Lokale Marktkenntnis",
+    "contactButton": "Mit Lukasz sprechen",
+    "principlesEyebrow": "Was Sie erwarten können",
+    "principlesTitle": "Beratung, die vom ersten Tag an verständlich bleibt",
+    "principlesIntro": "Jede Empfehlung beginnt mit Ihrer tatsächlichen Situation – nicht mit einem Standardpaket.",
+    "principle1Title": "Klarheit zuerst",
+    "principle1Text": "Optionen, Bedingungen und Kosten werden verständlich erklärt, damit Sie sicher entscheiden können.",
+    "principle2Title": "Wirklich persönliche Analyse",
+    "principle2Text": "Ihre Prioritäten, Ihr Budget, Ihre Familie und Ihre bestehende Deckung bestimmen jede Empfehlung.",
+    "principle3Title": "Unterstützung auch danach",
+    "principle3Text": "Sie behalten einen direkten Ansprechpartner für Fragen und Änderungen – auch nach dem Vertragsabschluss."
+  },
+  "CTA": {
+    "eyebrow": "Ein einfacher erster Schritt",
+    "title": "Sie sind unsicher, welcher Schutz zu Ihnen passt?",
+    "text": "Erzählen Sie mir, was Sie absichern möchten. Ich erkläre die Möglichkeiten und helfe, den sinnvollsten nächsten Schritt zu finden – ohne Druck und Fachjargon.",
+    "button": "Beratung anfragen"
+  },
+  "FOOTER": {
+    "advisor": "Berater",
+    "navigation": "Navigation",
+    "contact": "Direkter Kontakt",
+    "availability": "Persönliche Beratung auf Polnisch, Deutsch und Englisch.",
+    "rights": "Alle Rechte vorbehalten.",
+    "disclaimer": "Die Informationen auf dieser Website sind allgemein und ersetzen keine individuelle Prüfung von Versicherungsbedingungen und Bedürfnissen."
+  },
+  "HOME": {
+    "heroImageAlt": "Ein Bergsteiger auf einem verschneiten Schweizer Gipfel",
+    "heroBadge": "Schweizer Versicherung, persoenlich gemacht",
+    "heroTitle": "Der richtige Schutz, ohne Verwirrung",
+    "heroLead": "Ich helfe Ihnen, Ihre Optionen klar zu vergleichen und den Schutz zu waehlen, der zu Ihrem Leben, Ihrem Budget und Ihren Prioritaeten passt.",
+    "heroSubcopy": "Von Kranken- und Hausrat- bis Auto- und Haftpflichtversicherung: Ich mache den Prozess einfach, transparent und auf Sie zugeschnitten.",
+    "heroCta": "Kontakt aufnehmen",
+    "secondaryCta": "Berater kennenlernen",
+    "heroAssurance": "Kostenloses und unverbindliches Erstgespräch",
+    "heroGalleryLabel": "Bildergalerie im Titelbereich",
+    "heroSlideLabel": "Bild anzeigen",
+    "productsEyebrow": "Schutz für das echte Leben",
+    "productsHeading": "Schützen Sie, was Ihnen wichtig ist",
+    "productsIntro": "Von der obligatorischen Krankenversicherung bis zum Schutz für Zuhause, Auto und Alltag – beginnen Sie mit dem Bereich, der für Sie zählt.",
+    "partnersEyebrow": "Marktüberblick",
+    "partnersTitle": "Lösungen etablierter Anbieter vergleichen",
+    "trust": {
+      "label": "Warum Protegos",
+      "experience": "10+ Jahre",
+      "experienceText": "Versicherungserfahrung",
+      "languages": "Drei Sprachen",
+      "languagesText": "Polnisch, Deutsch, Englisch",
+      "location": "Schweizweit",
+      "locationText": "Beratung für Ihre lokale Situation"
+    },
+    "process": {
+      "eyebrow": "So funktioniert es",
+      "title": "In drei Schritten von Fragen zu klarer Absicherung",
+      "intro": "Ein fokussierter Ablauf, der wichtige Details verständlich macht und die Entscheidung bei Ihnen lässt.",
+      "step1Title": "Bedarf besprechen",
+      "step1Text": "In einem kurzen Erstgespräch klären wir Ihre Situation, Prioritäten, bestehende Deckung und Ihr Budget.",
+      "step2Title": "Passende Optionen vergleichen",
+      "step2Text": "Ich prüfe relevante Lösungen und erkläre Unterschiede, Vor- und Nachteile sowie Kosten verständlich.",
+      "step3Title": "Sicher entscheiden",
+      "step3Text": "Sie wählen, was passt. Ich unterstütze bei den Formalitäten und bleibe bei Veränderungen erreichbar."
+    },
+    "clientStories": {
+      "kicker": "Kundengeschichten",
+      "title": "Echte Kundenergebnisse",
+      "lead": "Drei praxisnahe Beispiele, wie die passende Zusatzversicherung jaehrliche Eigenkosten senken kann.",
+      "cases": [
+        {
+          "name": "Monika, 43",
+          "focus": "Traditionelle Chinesische Medizin",
+          "body": "Monika besuchte seit mehreren Jahren eine anerkannte Akupunkteurin und TCM-Therapeutin und gab dafuer etwa CHF 1,400 pro Jahr aus. Ihre bisherige Zusatzversicherung bot nur eine begrenzte Rueckerstattung. Nach einer Bedarfspruefung wechselte sie zu Helsana COMPLETA, das 75% der anrechenbaren Behandlungen in der Komplementaermedizin bei anerkannten Leistungserbringern rueckerstattet. Ihre Zusatzpraemie stieg um CHF 18 pro Monat (CHF 216 pro Jahr). Bei einer Rueckerstattung von rund CHF 1,050 konnte sie die gleichen Behandlungen fortsetzen und ihre jaehrlichen Gesundheitskosten deutlich reduzieren.",
+          "value": "Potenzieller jaehrlicher Mehrwert: CHF 834"
+        },
+        {
+          "name": "Daniel, 36",
+          "focus": "Sehversorgung",
+          "body": "Daniel traegt unter der Woche Kontaktlinsen und ersetzt alle paar Jahre seine Korrekturbrille. Seine jaehrlichen Optikkosten liegen im Schnitt bei CHF 900. Nach dem Wechsel zu Helsana COMPLETA hatte er Anspruch auf 90% Rueckerstattung fuer Brillenglaeser und Kontaktlinsen bis zu CHF 300 pro Kalenderjahr. Seine Zusatzpraemie stieg um CHF 12 pro Monat (CHF 144 jaehrlich). Allein dieser Optikbeitrag senkte seine laufenden Kosten, ohne dass er seine Einkaufsstelle wechseln musste.",
+          "value": "Potenzieller jaehrlicher Mehrwert: CHF 156"
+        },
+        {
+          "name": "Sophie, 31",
+          "focus": "Fitness und Praevention",
+          "body": "Sophie trainiert regelmaessig im Fitnessstudio und zahlt CHF 900 pro Jahr fuer ihre Mitgliedschaft. Sie wechselte zu CSS Livo Top, das Beitraege fuer anerkannte Fitnesscenter und Gesundheitsfoerderung sowie breitere ambulante Leistungen umfasst. Ihre Zusatzpraemie stieg um CHF 15 pro Monat (CHF 180 jaehrlich). Durch den Jahresbeitrag an ihre anerkannte Fitnessmitgliedschaft senkte sie die Kosten fuer ihren aktiven Lebensstil und gewann zusaetzliche ambulante Leistungen, die sie zuvor nicht hatte.",
+          "value": "Potenzieller jaehrlicher Mehrwert: CHF 320"
+        }
+      ]
+    }
+  },
+  "COOKIE": {
+    "ariaLabel": "Cookie-Einwilligung",
+    "title": "Cookies",
+    "description": "Diese Website verwendet notwendige Cookies für zentrale Funktionen. Mit Ihrer Zustimmung helfen optionale Analysedaten, die Nutzung der Website zu verstehen. Es werden keine Werbe-Cookies verwendet.",
+    "acceptEssential": "Nur notwendige Cookies akzeptieren",
+    "acceptAll": "Alle akzeptieren",
+    "readNotice": "Hinweis zu Cookies und Datenschutz lesen"
+  },
+  "LEGAL": {
+    "title": "Rechtliches & Datenschutz",
+    "intro": "Diese Website verwendet notwendige Cookies für die Funktion und Ihre Spracheinstellung. Optionale Analysedaten werden erst aktiviert, wenn Sie ‘Alle akzeptieren’ wählen. Es werden keine Werbe-Cookies verwendet.",
+    "cookieUseTitle": "Wofuer wir Cookies verwenden",
+    "cookieUse1": "Damit die Website einwandfrei funktioniert",
+    "cookieUse2": "Damit Ihre Sprachpraeferenz gespeichert wird",
+    "cookieUse3": "Um die anonyme Websitenutzung nur mit Ihrer Zustimmung zu analysieren",
+    "contactTitle": "Kontakt",
+    "contactText": "Wenn Sie Fragen zu diesem Hinweis haben, kontaktieren Sie uns bitte ueber die Kontaktseite dieser Website."
+  },
+  "INSURANCE_DATA": {
+    "eyebrow": "Einblick in Schweizer Open Data",
+    "title": "In manchen Schweizer Kantonen ist die gleiche Grunddeckung deutlich teurer.",
+    "subtitle": "Kanton und Tarifwahl koennen die Kosten selbst bei gleicher Grunddeckung stark beeinflussen. Diese Uebersicht zeigt die wichtigsten Unterschiede und wo Zusatzbausteine helfen koennen.",
+    "officialSource": "Offizielle Quelle: {{source}}.",
+    "viewSource": "Quelle ansehen",
+    "loading": "Offizielle Prämiendaten werden aktualisiert...",
+    "fallback": "Die Live-Daten sind vorübergehend nicht verfügbar; angezeigt wird der zuletzt gespeicherte Vergleich.",
+    "chart": {
+      "eyebrow": "Offizieller Praemienvergleich",
+      "title": "Grundversicherungstarife fuer Erwachsene",
+      "sourceLabel": "Quelle:",
+      "highestBenchmark": "Hoechster 2026-Referenzwert (Genf)",
+      "averageRate": "Durchschnittlich erfasster Wert",
+      "lowestBenchmark": "Niedrigster 2026-Referenzwert (Zug)"
+    },
+    "metrics": {
+      "savings": {
+        "label": "Moegliche jaehrliche Ersparnis",
+        "value": "CHF 600-2,000+",
+        "detail": "Je nach Zusatzversicherung und Nutzung kann Ihr Haushalt jaehrlich CHF 600-2,000+ an Mehrwert erhalten, z. B. durch Fitnessbeitraege, Alternativmedizin, Praevention und weitere gedeckte Leistungen, die sonst komplett selbst bezahlt wuerden."
+      },
+      "missOut": {
+        "label": "Wie viele Potenzial verpassen",
+        "value": "40%+",
+        "detail": "Mehr als 40% der Versicherten in der Schweiz nutzen Leistungen nicht, die sie bereits bezahlt haben - kostenloser Mehrwert bleibt ungenutzt."
+      },
+      "supplemental": {
+        "label": "Wie viele Zusatzdeckung nutzen",
+        "value": "54%",
+        "detail": "Mehr als die Haelfte der Erwachsenen in der Schweiz waehlt bereits Zusatzprodukte, daher kann die richtige Auswahl einen deutlichen Unterschied machen."
+      }
+    }
+  }
+}

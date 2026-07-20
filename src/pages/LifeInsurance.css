@@ -1,0 +1,13 @@
+.oc .section-collumn {
+  align-items: start;
+}
+
+.oc .custom-padding li {
+  margin-bottom: 0.25rem;
+}
+
+@media (max-width: 850px) {
+  .oc .section-collumn {
+    grid-template-columns: 1fr;
+  }
+}

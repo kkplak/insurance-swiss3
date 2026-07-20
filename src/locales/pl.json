@@ -1,0 +1,487 @@
+{
+  "GENERAL": {
+    "maintenanceh1": "🚧 Strona w budowie 🚧",
+    "maintenancep": "Pracujemy nad ulepszeniem serwisu. Wróć do nas później!",
+    "contact": "Kontakt",
+    "home": "Strona główna",
+    "introduction": "1. Kontakt",
+    "contactUs": "Skontaktuj się z nami",
+    "contactUsP": "Prosimy o podanie danych kontaktowych, a my na pewno się z Tobą skontaktujemy.",
+    "introductionP": "Podaj swoje dane, a my się z Tobą skontaktujemy.",
+    "meeting": "2. Spotkanie",
+    "meetingP": "Umówimy się na spotkanie lub rozmowę telefoniczną, aby ustalić najlepsze rozwiazanie, uwzględniając Twoje potrzeby oraz budżet.",
+    "ongoingSupport": "3. Ciągłe wsparcie",
+    "ongoingSupportP": "Nawiązana współpraca oznacza ciągłą komunikację.",
+    "homeH1": "Witaj u Twojego doradcy ubezpieczeniowego",
+    "homeP": "Moją rolą jest zaspokajanie Twoich indywidualnych potrzeb poprzez dopasowaną ofertę ubezpieczeniową.",
+    "homeP2": "Wynikiem mojej pracy są zadowoleni klienci.",
+    "heroP": "Tutaj, aby uprościć ubezpieczenia",
+    "heroH2": "Jestem tutaj, aby przeprowadzić Cię przez świat ubezpieczeń.",
+    "heroP2": "Niezależnie od tego, czy szukasz odpowiedniego ubezpieczenia zdrowotnego, samochodowego czy mieszkaniowego, pomogę Ci znaleźć rozwiązanie dopasowane do Twojego stylu życia i budżetu. Moje podejście jest osobiste, przejrzyste i w pełni dostosowane do Twoich potrzeb, bez niezrozumiałego żargonu i ukrytych opłat. Zadbajmy razem o Twoje bezpieczeństwo i spokój ducha na każdym kroku.",
+    "heroCta": "Umów bezpłatną konsultację",
+    "heroFeature1": "Osobiste doradztwo pod Twoje potrzeby",
+    "heroFeature2": "Szybkie odpowiedzi na pytania o zakres i cenę",
+    "heroFeature3": "Bez ukrytych kosztów, tylko jasne rekomendacje",
+    "homeButton": "O mnie",
+    "healthInsurance": "Ubezpieczenie zdrowotne",
+    "healthInsuranceDescription": "Lekarz, Hospitalizacja, Lekarstwa",
+    "lifeInsurance": "Ubezpieczenie od odpowiedzialności cywilnej",
+    "lifeInsuranceDescription": "Emerytura, Inwalidztwo, Śmierć",
+    "carInsurance": "Ubezpieczenie samochodu",
+    "carInsuranceDescription": "Kradzież, Stłuczka,\n Warunki atmosferyczne",
+    "houseInsurance": "Ubezpieczenie domu",
+    "houseInsuranceDescription": "Włamanie, Pożar, Zgubienie kluczy",
+    "lawProtection": "Ochrona prawna",
+    "lawProtectionDescription": "Konsultacje z prawnikiem, Reprezentowanie w sądzie",
+    "swissInsurance": "Pierwsze kroki w Szwajcarii",
+    "swissInsuranceDescription": "Wszystko czego potrzebujesz, aby dostać ubezpieczenie",
+    "healthInsuranceDescriptionLong": "Ubezpieczenie zdrowotne jest krytycznym narzędziem finansowym, zaprojektowanym do pokrywania kosztów medycznych i chirurgicznych. W zależności od rodzaju planu ubezpieczenia zdrowotnego, albo ubezpieczony płaci z własnej kieszeni i jest później zwracany, albo ubezpieczyciel dokonuje płatności bezpośrednio do dostawcy. Polisy ubezpieczenia zdrowotnego zazwyczaj obejmują wizyty u lekarza, pobyty w szpitalu, opiekę zapobiegawczą i leki na receptę. Niektóre plany mogą również oferować pokrycie dla usług zdrowia psychicznego, opieki wzrokowej i stomatologicznej. Posiadanie ubezpieczenia zdrowotnego jest niezbędne, ponieważ pomaga łagodzić wysokie koszty związane z opieką zdrowotną, zapewniając indywidualnym osobom i rodzinom niezbędną opiekę medyczną bez nadmiernego obciążenia finansowego.",
+    "lifeInsuranceDescriptionLong": "",
+    "carInsuranceDescriptionLong": "",
+    "houseInsuranceDescriptionLong": "",
+    "lawProtectionDescriptionLong": "",
+    "petInsuranceDescriptionLong": "",
+    "lukasz": "Łukasz",
+    "lukaszBergel": "Łukasz Bergel",
+    "lukaszPhone": "Tel. +41 79 482 38 96",
+    "lukaszMail": "Mail: lukasz@protegos.ch",
+    "aboutUs": "O mnie",
+    "aboutUsContent": "Wspieram osoby i rodziny w Szwajcarii poprzez osobiste doradztwo ubezpieczeniowe, jasne wytyczne i fachową obsługę.",
+    "aboutLukasz": "Łukasz jest oddanym agentem ubezpieczeniowym z ponad dziesięcioletnim doświadczeniem w branży. Jego dogłębne zrozumienie różnych produktów ubezpieczeniowych oraz zaangażowanie w ciągłe doskonalenie sprawiają, że zawsze jest na bieżąco z najnowszymi trendami i zmianami na rynku ubezpieczeniowym. Łukasz wierzy w budowanie długoterminowych relacji z klientami opartych na zaufaniu, przejrzystości i wzajemnym szacunku. Poświęca czas na zrozumienie indywidualnej sytuacji każdego klienta i oferuje dostosowane rozwiązania ubezpieczeniowe, które zapewniają najlepszą ochronę w najbardziej konkurencyjnych cenach. Łukasz biegle posługuje się językiem polskim, niemieckim i angielskim, co pozwala mu skutecznie komunikować się z różnorodną klientelą i świadczyć spersonalizowane usługi odpowiadające ich specyficznym potrzebom. Jego skrupulatne podejście, połączone z autentyczną troską o dobro klientów, czyni go niezawodnym i godnym zaufania doradcą w zakresie wszelkich potrzeb ubezpieczeniowych."
+  },
+  "HEALTH": {
+    "title": "Ubezpieczenie zdrowotne",
+    "info": "System ubezpieczeń zdrowotnych w Szwajcarii wyróżnia się na tle systemów funkcjonujących w innych państwach. Każda osoba mieszkająca w Szwajcarii, jest zobowiązana do samodzielnego wyboru ubezpieczyciela oraz regularnego opłacania składek zdrowotnych. W przeciwieństwie do większości krajów europejskich i wielu innych państw na świecie, składki te nie są automatycznie potrącane z wynagrodzenia.",
+    "infoList": "Wyróżniamy dwa rodzaje ubezpieczeń zdrowotnych:",
+    "infoListItem1": "Ubezpieczenie podstawowe",
+    "infoListItem2": "Ubezpieczenie dodatkowe",
+    "basic": {
+      "title": "Ubezpieczenie podstawowe",
+      "p": "Podstawowe ubezpieczenie zdrowotne w Szwajcarii, nazywane „Grundversicherung” , jest obowiązkowe dla każdego, kto mieszka w tym kraju. Należy je wykupić do 90 dni od rozpoczęcia pracy w Szwajcarii. Obejmuje ono najważniejsze usługi medyczne, takie jak wizyty u lekarza, leczenie w szpitalu na oddziale ogólnym, leki na receptę oraz pomoc w nagłych wypadkach. Każdy może sam wybrać ubezpieczyciela spośród wielu dostępnych firm, które oferują takie same usługi, określone przez prawo. <br> <b> Ubezpieczenie podstawowe możemy zmieniać co roku do końca listopada. </b>",
+      "p1": "Co wpływa na wysokość ubezpieczenia podstawowego",
+      "l1": "Wiek",
+      "l2": "Miejsce zamieszkania",
+      "l3": "Wysokość franszyzy",
+      "l4": "Model ubezpieczenia",
+      "l5": "Firma ubezpieczeniowa",
+      "p2": "Najważniejsze dwie składowe ubezpieczenia podstawowego",
+      "pl1": "Franszyza",
+      "pl2": "Model ubezpieczenia"
+    },
+    "fran": {
+      "title": "Franszyza",
+      "p": "Jest to kwota, którą musimy pokryć z własnej kieszeni za usługi medyczne w ciągu roku, zanim ubezpieczyciel zacznie przejmować koszty leczenia. <br> Należy pamiętać, że im niższa franszyza tym wyższe koszty miesięcznej składki a im wyższa franszyza tym koszty te będą niższe.",
+      "p1": "Do wyboru są następujące poziomy franszyzy",
+      "p2": "Dla dorosłych",
+      "p3": "300 <br> 500 <br> 1000 <br> 1500 <br> 2000 <br> 2500",
+      "p5": "Dla dzieci",
+      "p6": "0 <br> 100 <br> 200 <br> 300 <br> 400 <br> 500 <br> 600",
+      "p7": "Gdy franszyza zostanie osiągnięta, musimy pokryć 10% pozostałych kosztów, ale nie więcej niż CHF 700 (dla dorosłych) lub CHF 350 (dla dzieci). Powyżej tego limitu wszystkie koszty pokrywa ubezpieczyciel.",
+      "p8": "Przykład",
+      "p9": "Po 5 dniowym pobycie w szpitalu dostajemy rachunek CHF 10’000. <br> Zakładamy, że nasza franszyza to CHF 300.",
+      "p10": "W pierwszej kolejności musimy zapłacić wysokość naszej franszyzy, a więc CHF 300.",
+      "p11": "Następnie 10% z reszty. <br>  Nasza reszta to CHF 10’000 – CHF 300 = CHF 9’700.",
+      "p12": "10% z CHF 9’700 to CHF 970 <br> (pamiętajmy że maksymalna kwota z pozostałych 10% to CHF 700) <br> więc z CHF 970 robi nam się CHF 700. ",
+      "p13": "Należy dodać CHF 300 + CHF 700 = <b> CHF 1000 </b>. <br> To jest kwota, którą będziemy musieli pokryć z własnej kieszeni."
+    },
+    "model": {
+      "title": "Model ubezpieczenia",
+      "p": "Model ubezpieczenia to sposób, w jaki korzystasz z usług medycznych w ramach swojego ubezpieczenia zdrowotnego. W Szwajcarii dostępne są różne modele, które wpływają na wysokość składki oraz organizację opieki zdrowotnej. <br> W przypadku nagłych wypadków, problemów ze wzrokiem lub corocznych badań ginekologicznych wybór modelu nie ma znaczenia.",
+      "p1": "Najpopularniejsze modele to:",
+      "p2": "<b> Tradycyjny </b> <br> Możesz swobodnie wybierać lekarza pierwszego kontaktu i specjalistów (bez skierowania od lekarza rodzinnego). Jest najdroższy, ale daje największą elastyczność.",
+      "p3": "<b> HMO (Organizacja opieki zdrowotnej) </b> <br> Leczenie odbywa się w sieci określonych lekarzy (przychodniach) i szpitali. Składki są niższe, ale wybór lekarzy ograniczony.",
+      "p4": "<b> Telmed </b> <br> Najpierw kontaktujesz się z centrum telefonicznym, które kieruje cię do odpowiedniego lekarza.",
+      "p5": "<b> Model lekarza rodzinnego </b> <br> Zawsze najpierw udajesz się do swojego lekarza pierwszego kontaktu, który koordynuje dalsze leczenie. Należy wybrać swojego lekarza z listy dostępnych specjalistów podczas zawierania umowy."
+    },
+    "add": {
+      "title": "Ubezpieczenie dodatkowe",
+      "p": "Jest to dobrowolne ubezpieczenie zdrowotne, które rozszerza zakres usług oferowanych przez podstawowe ubezpieczenie. Dzięki niemu można skorzystać z dodatkowych świadczeń, takich jak np:",
+      "i1": "leczenie dentystyczne,",
+      "i2": "pobyt w prywatnych szpitalach lub klinikach,",
+      "i3": "alternatywne metody leczenia (np. homeopatia, akupunktura),",
+      "i4": "opieka medyczna za granicą.",
+      "i5": "zwrot kosztów za zakup okularów, karnetów na siłownię.",
+      "p2": "Wybór ubezpieczenia dodatkowego daje większą swobodę wyboru lekarzy, szpitali i metod leczenia, a także lepsze warunki leczenia. Choć wiąże się z wyższymi składkami, inwestycja w ubezpieczenie dodatkowe zapewnia pełniejszą ochronę zdrowia i komfort w razie potrzeby, pozwalając uniknąć wysokich kosztów za usługi medyczne, które nie są objęte podstawowym ubezpieczeniem. <br> <b> Ubezpieczenie dodatkowe możemy zmieniać co 3 lata (zazwyczaj) do końca września. </b>"
+    },
+    "extra": {
+      "title": "Więcej o ubezpieczeniu podstawowym",
+      "p1": " Leki",
+      "i1": "Ubezpieczenie podstawowe musi pokrywać koszty leków znajdujących się na liście zatwierdzonych przez specjalistów, które zostały przepisane przez lekarza. Lista ta, obejmująca około 2 500 leków, jest na bieżąco aktualizowana.",
+      "p2": "Transport i ratownictwo na terenie Szwajcarii",
+      "i2": "W przypadku transportu medycznego, który nie wiąże się z nagłym zagrożeniem życia, ubezpieczenie podstawowe pokrywa 50% kosztów, jednak nie więcej niż 500 CHF rocznie. Transporty związane z nagłymi wypadkami oraz przeniesieniem do szpitala są w pełni refundowane.",
+      "p3": "Ochrona za granicą",
+      "i3": "Ubezpieczenie podstawowe pokrywa jedynie niezbędne leczenie w nagłych przypadkach za granicą, do wysokości maksymalnie dwukrotności kosztów tego samego leczenia w Szwajcarii. W przypadku podróży poza UE/EFTA zaleca się wykupienie dodatkowego ubezpieczenia.",
+      "p4": "Dentysta",
+      "i4": "Ubezpieczenie podstawowe w Szwajcarii pokrywa leczenie stomatologiczne tylko w ograniczonym zakresie. Zwykle refundowane są jedynie pilne przypadki, takie jak leczenie w wyniku wypadków (np. złamane zęby) lub leczenie związane z chorobami jamy ustnej, które mogą mieć wpływ na zdrowie ogólne.",
+      "p5": "Ginekolog",
+      "i5": "Badania ginekologiczne i cytologię ubezpieczenie pokrywa co trzy lata, a w razie potrzeby także corocznie (po uzgodnieniu z ubezpieczycielem).",
+      "p6": "Ciąża",
+      "i6": "Podstawowe ubezpieczenie zdrowotne pokrywa koszty świadczeń przed i po porodzie. Obejmują one:",
+      "il1": "Siedem rutynowych badań (w tym dwa badania USG: jedno między 11. a 14. tygodniem ciąży oraz jedno między 20. a 23. tygodniem ciąży). W przypadku ciąż wysokiego ryzyka mogą być przeprowadzane dodatkowe badania USG na zlecenie lekarza.",
+      "il2": "Przygotowanie do porodu i opiekę okołoporodową świadczoną przez lekarzy lub położne – podstawowe ubezpieczenie pokrywa koszt w wysokości 150 CHF.",
+      "il3": "Od 12. tygodnia ciąży wykonywany jest nieinwazyjny test prenatalny.",
+      "il4": "Koszty porodu w domu, w oddziale ogólnym szpitala w kantonie zamieszkania.",
+      "il5": "Kontrola po porodzie między 6. a 10. tygodniem oraz maksymalnie trzy konsultacje laktacyjne.",
+      "p7": "Istotne jest, że świadczenia związane z ciążą i porodem nie wiążą się z żadnymi kosztami własnymi ani franszyzą. W przypadku komplikacji zdrowotnych kobiety, od 13. tygodnia ciąży do 8 tygodni po porodzie, nie ponosi ona żadnych dodatkowych kosztów.",
+      "p8": "Psychoterapia",
+      "i8": "Ubezpieczenie podstawowe może pokrywać koszty terapii psychologicznej, ale pod pewnymi warunkami. Od 1 lipca 2022 roku ubezpieczenie podstawowe obejmuje terapię psychologiczną prowadzoną przez wykwalifikowanych psychoterapeutów, o ile terapia odbywa się na zlecenie lekarza. Oznacza to, że najpierw konieczna jest konsultacja z lekarzem, który wystawi skierowanie na taką terapię.",
+      "i9": "Koszty mogą być refundowane w ramach standardowych zasad ubezpieczenia, czyli z uwzględnieniem franszyzy i udziału własnego (max 700CHF). Terapie prowadzone prywatnie, bez skierowania lekarskiego, zazwyczaj nie są objęte refundacją przez ubezpieczenie podstawowe i wymagają wykupienia dodatkowego ubezpieczenia zdrowotnego.",
+      "p9": "Koszty szpitalne",
+      "i10": "Szpital musi być uwzględniony na liście zatwierdzonej przez kanton. Jeśli nie znajduje się na liście należy pokryć różnicę kosztów w leczeniu pomiędzy szpitalami (aby uniknąć tych kosztów należy wykupić ubezpieczenie dodatkowe).",
+      "i11": "Za każdy dzień pobytu w szpitalu wymagana jest opłata 15CHF (bez względu na rodzaj ubezpieczenia).",
+      "i12": "Koszty pobytu w prywatnej lub półprywatnej placówce wymagają ubezpieczenia dodatkowego"
+    },
+
+    "newcommers": {
+      "h2": "Nowy/Nowa w Szwajcarii",
+
+      "p": "Pamiętaj, że masz <b>90 dni od rozpoczęcia pracy</b>, aby wykupić ubezpieczenie. Jeśli tego nie zrobisz, zostanie naliczona kara. <br> Rachunki trzeba będzie opłacić wstecz - dokładnie od pierwszego dnia zameldowania.",
+
+      "p2": "Dokumenty, które potrzebujesz do założenia ubezpieczenia:",
+      "item1": "1. Meldebestätigung",
+      "item2": "2. Umowa o pracę",
+      "item3": "3. Dowód osobisty lub paszport",
+      "item4": "4. Konto bankowe (opcjonalnie)",
+      "p3": "Jest to potwierdzenie zameldowania z datą rozpoczęcia pracy oraz z adresem zamieszkania. Aby uzyskać ten dokument trzeba udać się do miejscowej gminy (Gemeinde) wraz z:",
+      "p3item1": "umową o pracę",
+      "p3item2": "umową najmu mieszkania",
+      "p3item3": "dowodem osobistym",
+      "p4": "Do założenia konta w banku potrzebna jest umowa o pracę oraz pozwolenie na pobyt (Bewiligung). Proces wyrabiania pozwolenia na pobyt (dowodu szwajcarskiego) może trwać do kilku tygodni i cała sprawa związana z ubezpieczeniem może się znacznie wydłużyć. Rozwiązaniem jest założenie konta w banku PostFinance. W tym wypadku potrzebujemy tylko dowodu tożsamości, umowy o pracę oraz potwierdzenie zameldowania (Meldebestätigung)."
+    }
+  },
+  "LAW": {
+    "title": "Ochorona prawna",
+    "info": "Jest to dobrowolne ubezpieczenie, które chroni przed kosztami związanymi z postępowaniami prawnymi. W przypadku konfliktów prawnych, takich jak spory z pracodawcą, wynajmującym czy po wypadkach drogowych, ubezpieczenie to pokrywa m.in. honoraria adwokackie, koszty sądowe oraz ewentualne odszkodowania dla strony przeciwnej. Ubezpieczenie to oferuje również wsparcie w postaci porad prawnych, a w razie potrzeby zapewnia reprezentację przez prawnika. <br> <br> Posiadanie tego ubezpieczenia może zapewnić spokój ducha, wiedząc, że w przypadku problemów prawnych nie zostaniesz sam z wysokimi kosztami i skomplikowanymi procedurami. <br> <br> <b> Ubezpieczenie jest objęte trzymiesięcznym okresem karencji. </b> ",
+
+    "costs": {
+      "title": "Jakie koszty pokrywa ubezpiecznie ?",
+      "il1": "Porady prawne",
+      "il2": "Koszty ewentualnego postępowania mediacyjnego",
+      "il3": "Koszty adwokackie",
+      "il4": "Koszty opinii biegłych w procesie.",
+      "il5": "Opłaty sądowe i inne koszty postępowania",
+      "il6": "Odszkodowanie procesowe na rzecz strony przeciwnej",
+      "il7": "Zaliczkowa wpłata na kwotę ustaloną przez sąd",
+      "il8": "Koszty windykacyjne za roszczenia, które ubezpieczony może dochodzić od strony przeciwnej po zakończeniu procesu"
+    },
+    "priv": {
+      "title": "Jakie obszary prawa są objęte ubezpieczeniem ochrony prawnej dla osób prywatnych?",
+      "il1": "Prawo pracy",
+      "il2": "Prawo najmu",
+      "il3": "Prawo karne",
+      "il4": "Prawo odszkodowawcze",
+      "il5": "Prawo pacjenta",
+      "il6": "Prawo umów",
+      "il7": "Prawo ubezpieczeniowe"
+    }
+  },
+  "OC": {
+    "title": "Ubezpieczenie od odpowiedzialności cywilnej",
+    "info": "Ubezpieczenie OC w życiu prywatnym to nieobowiązkowe ubezpieczenie, które chroni Cię finansowo, jeśli przypadkowo wyrządzisz szkodę osobie trzeciej – zarówno w postaci obrażeń ciała, jak i szkód majątkowych. Jest to jedno z najważniejszych ubezpieczeń dla najemców mieszkań, właścicieli zwierząt domowych oraz wszystkich osób prywatnych. Choć nie jest wymagane prawnie, może uchronić Cię przed wysokimi kosztami odszkodowań wynikających np. z zalania mieszkania sąsiada, potrącenia rowerzysty czy szkód wyrządzonych przez Twoje dziecko lub pupila.",
+
+    "what": {
+      "title": "Co obejmuje ubezpieczenie",
+      "il1": "Szkody wyrządzone osobie trzeciej – np. potrącisz rowerzystę na hulajnodze",
+      "il2": "Zniszczenie czyjejś własności – np. stłuczesz komuś telefon lub zalejesz mieszkanie sąsiada,",
+      "il3": "Szkody wyrządzone przez Twoje dziecko (jeśli niepełnoletnie),",
+      "il4": "Szkody wyrządzone przez Twojego psa (jeśli go posiadasz),",
+      "il5": "Szkody spowodowane przez Ciebie jako najemcę mieszkania – np. uszkodzisz ścianę lub podłogę"
+    },
+    "example": {
+      "title": "Przykłady podlegające ubezpieczeniu",
+      "il1": "Twoja koleżanka przypadkowo wylewa kieliszek czerwonego wina na twoją sukienkę. Materiału nie da się już wyczyścić.",
+      "i1": "Prywatne ubezpieczenie OC pokrywa szkody.",
+      "il2": "Dziecko bawi się piłką na podwórku i przez brak nieuwagi wybija szybę w mieszkaniu sąsiada.",
+      "il3": "Źle przechowywane zapałki w domu trafiają w ręce dziecka, które bawiąc się nimi powoduje pożar. Ten przenosi się na szopę sąsiada i powoduje szkody.",
+      "il4": "Spuszczasz ze smyczy psa podczas spaceru. Ten czując zagrożenie gryzie chłopca grającego w piłkę.",
+      "il5": "W wynajmowanym mieszkaniu do umywalki wpada ciężki przedmiot i tłucze ją.",
+      "il6": "Jeden ze stopni przy wejściu do Twojego domu jest uszkodzony. Gość który Cię odwiedza poślizgnął się na nim i zranił. Ty jesteś odpowiedzialny za tę szkodę."
+    }
+  },
+  "HOUSE": {
+    "title": "Ubezpieczenie domu",
+    "info": "Jest to dobrowolne ubezpieczenie mienia ruchomego w Szwajcarii, które chroni przed stratami finansowymi spowodowanymi przez zdarzenia takie jak pożar, zalanie, kradzież czy zniszczenia wywołane przez siły natury. Obejmuje ono przedmioty codziennego użytku, takie jak meble, sprzęt elektroniczny, ubrania czy rowery. W przypadku szkody, ubezpieczyciel pokrywa koszty naprawy lub zakupu nowych przedmiotów. Choć nie jest obowiązkowe, posiadanie Hausratversicherung jest zdecydowanie zalecane, aby zabezpieczyć się przed nieprzewidzianymi wydatkami związanymi z uszkodzeniem lub utratą mienia.",
+    "infoList": "Ubezpieczone ryzyka",
+    "infoListItem1": "Pożar i szkody żywiołowe",
+    "infoListItem2": "Woda (np. zalania)",
+    "infoListItem3": "Kradzież",
+    "infoListItem4": "Stłuczenie szkła (np. lustra, szklane drzwi)",
+    "what": {
+      "title": "Co jest ubezpieczone?",
+      "il1": "Wszelkie przedmioty, które nie są trwale połączone z nieruchomością/budynkiem",
+      "il2": "Rowery (bez tablic rejestracyjnych)",
+      "il3": "Przedmioty, które są wykorzystywane do celów związanych z działalnością gospodarczą, nie podlegają ubezpieczeniu",
+      "il4": "Przedmioty dzierżawione lub wynajęte",
+      "il5": "Powierzone nam przedmioty",
+      "il6": "Rzeczy przywiezione przez gości"
+    },
+    "where": {
+      "title": "Gdzie obowiązuje ubezpieczenie?",
+      "il1": "W miejscu zamieszkania",
+      "il2": "Podczas przeprowadzki",
+      "il3": "Podczas tymczasowego wyjazdu"
+    },
+    "additional": {
+      "title": "Co można ubezpieczyć dodatkowo?",
+      "il1": "Oszklenie mebli",
+      "il2": "Szklane elementy budynku",
+      "il3": "Drobna kradzież poza domem",
+      "il4": "Kradzież motorowerów i rowerów elektrycznych z tablicą rejestracyjną",
+      "il5": "Koszty wymiany zamków w drzwiach"
+    },
+    "important": {
+      "title": "Ważne informacje!",
+      "li1": "Wkład własny za wszystkie ubezpieczone ryzyka wynosi CHF 200.",
+      "li2": "Wkład własny w przypadku szkód naturalnych wynosi CHF 500."
+    },
+    "casco": {
+      "title": "Ubezpiecznie Casco (Hausrat - KASKO)",
+      "p": "Jest to ubezpieczenie, które pokrywa szkody wyrządzone bezpośrednio przez właściciela. Ubezpieczenie wypłaca pieniądze na zakup nowego przedmiotu o równoważnej wartości (pomniejszone o wkład własny).",
+      "p1": "Najczęściej ubezpieczone przedmioty (różni się to w zależności od ubezpieczalni):",
+      "i1": "Elektryczne urządzenia AGD",
+      "i2": "Telefony komórkowe",
+      "i3": "Instrumenty muzyczne",
+      "i4": "Komputery PC i laptop",
+      "i5": "Sprzęt sportowy",
+      "i6": "Bagaż"
+    }
+  },
+  "CAR": {
+    "title": "Ubezpieczenie samochodu",
+    "infoList": "W Szwajcarii wyróżniamy dwa ubezpieczenia samochodowe:",
+    "infoListItem1": " Ubezpieczenie od odpowiedzialności cywilnej (obowiązkowe)",
+    "infoListItem2": "Ubezpieczenie kasko:",
+    "infoListItem3": "częściowe kasko (Teilkasko)",
+    "infoListItem4": "pełne kasko (Vollkasko)",
+    "intro": {
+      "title": "Ubezpieczenie podstawowe",
+      "p": "Podstawowe ubezpieczenie zdrowotne w Szwajcarii, nazywane „Grundversicherung” , jest obowiązkowe dla każdego, kto mieszka w tym kraju. Należy je wykupić do 90 dni od rozpoczęcia pracy w Szwajcarii. Obejmuje ono najważniejsze usługi medyczne, takie jak wizyty u lekarza, leczenie w szpitalu na oddziale ogólnym, leki na receptę oraz pomoc w nagłych wypadkach. Każdy może sam wybrać ubezpieczyciela spośród wielu dostępnych firm, które oferują takie same usługi, określone przez prawo. <br> <b> Ubezpieczenie podstawowe możemy zmieniać co roku do końca listopada. </b>",
+      "p1": "Co wpływa na wysokość ubezpieczenia",
+      "l1": "Wartość pojazdu",
+      "l2": "Wiek kierowcy",
+      "l3": "Miejsce zamieszkania",
+      "l4": "Historia jazdy",
+      "l5": " Narodowość"
+    },
+    "OC": {
+      "title": "Ubezpieczenie od odpowiedzialności cywilnej",
+      "p": "W Szwajcarii to obowiązkowe ubezpieczenie dla posiadaczy pojazdów mechanicznych, takich jak samochody czy motocykle. Jest ono wymagane prawnie i stanowi warunek konieczny do rejestracji pojazdu oraz uzyskania tablic rejestracyjnych.​ <br> Posiadanie tego ubezpieczenia zapewnia ochronę finansową w przypadku roszczeń osób trzecich wynikających z wypadków drogowych. Brak ważnej polisy uniemożliwia legalne poruszanie się pojazdem po szwajcarskich drogach i może prowadzić do poważnych konsekwencji prawnych. <br> <br> Przykłady:",
+      "i1": "Podczas parkowania kierowca uszkodził pojazd jadący za nim.",
+      "i2": " Z powodu światła słonecznego kierowca nie zauważa na czas pieszego na przejściu dla pieszych i potrąca go.",
+      "i3": "Z zaparkowanego samochodu wycieka olej. Motocyklista ślizga się na plamie oleju. Zostaje poważnie ranny, a motocykl uległ całkowitemu zniszczeniu.",
+      "i4": "Wysiadając z zaparkowanego samochodu kierowca nie zauważył nadjeżdżającego rowerzysty. Ten nie może już ominąć drzwi i ciężko upada."
+    },
+    "casco": {
+      "title": "Ubezpieczenie Kasko",
+      "p": "Jest dobrowolnym, ale bardzo popularnym rodzajem ubezpieczenia samochodowego, które zapewnia szeroką ochronę dla właścicieli pojazdów przed finansowymi konsekwencjami związanymi z uszkodzeniami, zniszczeniami lub utratą pojazdu. To ubezpieczenie obejmuje szkody, które nie są wynikiem winy innych uczestników ruchu drogowego, czyli zapewnia ochronę nie tylko w przypadku kolizji, ale także w sytuacjach, gdy szkody są spowodowane przez czynniki losowe lub działania sił natury. Ubezpieczenie Kasko daje właścicielom pojazdów poczucie bezpieczeństwa, ponieważ obejmuje szeroki zakres zdarzeń, które mogą prowadzić do poważnych kosztów napraw lub wymiany pojazdu. Jest to szczególnie cenne dla osób posiadających drogie lub nowe samochody, które mogą być narażone na różnorodne ryzyka, takie jak kradzież, uszkodzenia spowodowane przez warunki atmosferyczne czy wypadki niezależne od woli właściciela.",
+      "p2": "Wyróżniamy dwa rodzaje ubezpieczenia Casco:"
+    },
+    "teilkasko": {
+      "title": "Teilkasko",
+      "p": "Pokrywa szkody niezależne od winy kierowcy, takie jak:",
+      "i1": "pożar,",
+      "i2": "uszkodzenia spowodowane przez siły natury,",
+      "i3": "kradzież, rozbój,",
+      "i4": "uszkodzenia szyb,",
+      "i5": "kolizje ze zwierzętami,",
+      "i6": "szkody spowodowane przez zwierzęta (np. kuny),",
+      "i7": "wandalizm (np. zerwanie antenek, lusterek , przebicie opon)"
+    },
+    "vollkasko": {
+      "title": " Vollkasko",
+      "p": "Obejmuje wszystkie świadczenia Teilkasko oraz dodatkowo:",
+      "li1": "szkody spowodowane przez samego kierowcę (np. kolizje z innymi pojazdami lub obiektami),"
+    },
+    "kask": {
+      "p2": "Kiedy warto rozważyć Kaskoversicherung?",
+      "li2": "Teilkasko: Zalecane dla pojazdów o średniej wartości, zazwyczaj do 7 lat eksploatacji.",
+      "li3": "Vollkasko: Szczególnie polecane dla nowych lub leasingowanych pojazdów, gdzie ryzyko finansowe związane z ewentualnymi szkodami jest wyższe."
+    }
+  },
+  "CONTACT": {
+    "eyebrow": "Porozmawiajmy",
+    "contactIntro": "Możesz skontaktować się ze mną bezpośrednio telefonicznie lub mailowo, albo po prostu zostawić swoje dane poniżej, a odezwę się do Ciebie.",
+    "callMeTitle": "Zadzwoń do mnie",
+    "callMeText": "Jeśli to wygodniejsze, chętnie porozmawiam z Tobą telefonicznie i od razu odpowiem na pytania.",
+    "emailMeTitle": "Napisz do mnie",
+    "emailMeText": "Wyślij krótki komunikat, a odezwę się z kolejnym krokiem.",
+    "detailsTitle": "Zostaw swoje dane",
+    "detailsText": "Podaj swoje imię, numer telefonu i adres e-mail, a skontaktuję się z Tobą tak szybko, jak to możliwe.",
+    "formThanks": "Dziękujemy! Wkrótce się z Tobą skontaktujemy.",
+    "formFooter": "Dziękujemy za zaufanie!",
+    "formLanguage": "Wybierz preferowany język",
+    "formEnglish": "Angielski",
+    "formGerman": "Niemiecki",
+    "formPolish": "Polski",
+    "formGreek": "Grecki",
+    "formNumber": "Numer telefonu",
+    "formName": "Imię",
+    "formEmail": "Adres e-mail",
+    "formSubmit": "Wyślij zapytanie",
+    "formSubmitting": "Wysyłanie...",
+    "formMessage": "Wiadomość",
+    "validationName": "Imię",
+    "validationPhone": "Telefon",
+    "validationEmail": "E-mail",
+    "validationMessage": "Wiadomość"
+  },
+  "NAV": {
+    "primaryLabel": "Główna nawigacja",
+    "tagline": "Doradztwo ubezpieczeniowe w Szwajcarii",
+    "consultation": "Bezpłatna konsultacja",
+    "callLabel": "Zadzwoń",
+    "languageLabel": "Wybierz język",
+    "openMenu": "Otwórz menu",
+    "closeMenu": "Zamknij menu"
+  },
+  "ABOUT": {
+    "eyebrow": "Osobiste doradztwo dopasowane do Ciebie",
+    "advisorLabel": "Osobisty doradca ubezpieczeniowy",
+    "profileEyebrow": "Twój bezpośredni kontakt",
+    "profileTitle": "Jasne odpowiedzi od osoby, która naprawdę chce zrozumieć Twoją sytuację.",
+    "experienceValue": "10+ lat",
+    "experienceLabel": "Doświadczenia w branży",
+    "languagesValue": "PL · DE · EN",
+    "languagesLabel": "Doradztwo w Twoim języku",
+    "locationValue": "Szwajcaria",
+    "locationLabel": "Znajomość lokalnego rynku",
+    "contactButton": "Porozmawiaj z Łukaszem",
+    "principlesEyebrow": "Czego możesz oczekiwać",
+    "principlesTitle": "Doradztwo, które od początku jest proste i zrozumiałe",
+    "principlesIntro": "Każda rekomendacja zaczyna się od Twojej prawdziwej sytuacji, a nie od gotowego pakietu.",
+    "principle1Title": "Najpierw jasność",
+    "principle1Text": "Opcje, warunki i koszty tłumaczę prostym językiem, żeby decyzja była naprawdę świadoma.",
+    "principle2Title": "Naprawdę indywidualna analiza",
+    "principle2Text": "Twoje priorytety, budżet, sytuacja rodzinna i obecna ochrona kształtują każdą rekomendację.",
+    "principle3Title": "Wsparcie także później",
+    "principle3Text": "Zachowujesz bezpośredni kontakt na wypadek pytań i zmian, również po wyborze polisy."
+  },
+  "CTA": {
+    "eyebrow": "Prosty pierwszy krok",
+    "title": "Nie wiesz, która ochrona będzie dla Ciebie właściwa?",
+    "text": "Powiedz mi, co chcesz zabezpieczyć. Pomogę zrozumieć dostępne opcje i znaleźć rozsądny kolejny krok – bez presji i niezrozumiałego żargonu.",
+    "button": "Umów konsultację"
+  },
+  "FOOTER": {
+    "advisor": "Doradca",
+    "navigation": "Nawigacja",
+    "contact": "Bezpośredni kontakt",
+    "availability": "Osobiste doradztwo po polsku, niemiecku i angielsku.",
+    "rights": "Wszelkie prawa zastrzeżone.",
+    "disclaimer": "Informacje na tej stronie mają charakter ogólny i nie zastępują indywidualnej analizy warunków ubezpieczenia oraz potrzeb."
+  },
+  "HOME": {
+    "heroImageAlt": "Wspinacz na szczycie ośnieżonej szwajcarskiej góry",
+    "heroBadge": "Szwajcarskie ubezpieczenia, po ludzku",
+    "heroTitle": "Właściwa ochrona, bez chaosu",
+    "heroLead": "Pomagam jasno porównać opcje i wybrać ochronę dopasowaną do Twojego życia, budżetu i priorytetów.",
+    "heroSubcopy": "Od ubezpieczenia zdrowia i domu po auto i OC: upraszczam cały proces, jasno i indywidualnie.",
+    "heroCta": "Skontaktuj się",
+    "secondaryCta": "Poznaj doradcę",
+    "heroAssurance": "Bezpłatna i niezobowiązująca pierwsza rozmowa",
+    "heroGalleryLabel": "Galeria zdjęć w nagłówku",
+    "heroSlideLabel": "Pokaż zdjęcie",
+    "productsEyebrow": "Ochrona na prawdziwe życie",
+    "productsHeading": "Chroń to, co najważniejsze",
+    "productsIntro": "Od obowiązkowego ubezpieczenia zdrowotnego po ochronę domu, auta i codziennego życia – zacznij od obszaru, który jest dla Ciebie najważniejszy.",
+    "partnersEyebrow": "Przegląd rynku",
+    "partnersTitle": "Porównuj rozwiązania uznanych ubezpieczycieli",
+    "trust": {
+      "label": "Dlaczego Protegos",
+      "experience": "10+ lat",
+      "experienceText": "Doświadczenia ubezpieczeniowego",
+      "languages": "Trzy języki",
+      "languagesText": "Polski, niemiecki, angielski",
+      "location": "Cała Szwajcaria",
+      "locationText": "Doradztwo dopasowane lokalnie"
+    },
+    "process": {
+      "eyebrow": "Jak to działa",
+      "title": "Od pytań do jasnej ochrony w trzech krokach",
+      "intro": "Konkretny proces, który wyjaśnia najważniejsze szczegóły i zostawia decyzję w Twoich rękach.",
+      "step1Title": "Powiedz, czego potrzebujesz",
+      "step1Text": "Podczas krótkiej rozmowy omawiamy Twoją sytuację, priorytety, obecną ochronę i budżet.",
+      "step2Title": "Porównaj właściwe opcje",
+      "step2Text": "Analizuję odpowiednie rozwiązania i jasno wyjaśniam różnice, kompromisy oraz koszty.",
+      "step3Title": "Wybierz ze spokojem",
+      "step3Text": "Ty decydujesz, co pasuje. Pomagam w formalnościach i pozostaję dostępny, gdy Twoja sytuacja się zmienia."
+    },
+    "clientStories": {
+      "kicker": "Historie klientów",
+      "title": "Rzeczywiste efekty klientów",
+      "lead": "Trzy praktyczne przykłady, jak dobrze dobrane ubezpieczenie dodatkowe może obniżyć roczne koszty z własnej kieszeni.",
+      "cases": [
+        {
+          "name": "Monika, 43",
+          "focus": "Tradycyjna Medycyna Chińska",
+          "body": "Monika od kilku lat korzystała z usług uznanego akupunkturzysty i terapeuty TCM, wydając około CHF 1,400 rocznie. Jej wcześniejsze ubezpieczenie dodatkowe zapewniało jedynie ograniczony zwrot kosztów. Po analizie swoich potrzeb przeszła na Helsana COMPLETA, które zwraca 75% kwalifikowanych kosztów leczenia medycyny komplementarnej u uznanych specjalistów. Jej składka dodatkowa wzrosła o CHF 18 miesięcznie (CHF 216 rocznie). Przy zwrocie na poziomie około CHF 1,050 mogła kontynuować te same terapie, jednocześnie znacząco obniżając roczne koszty opieki zdrowotnej.",
+          "value": "Potencjalna roczna korzyść: CHF 834"
+        },
+        {
+          "name": "Daniel, 36",
+          "focus": "Opieka wzroku",
+          "body": "Daniel nosi w tygodniu soczewki kontaktowe i co kilka lat wymienia okulary korekcyjne. Jego roczne wydatki optyczne wynoszą średnio CHF 900. Po przejściu na Helsana COMPLETA uzyskał prawo do zwrotu 90% kosztów soczewek okularowych i kontaktowych do limitu CHF 300 na rok kalendarzowy. Jego składka dodatkowa wzrosła o CHF 12 miesięcznie (CHF 144 rocznie). Sam ten zwrot optyczny obniżył jego roczne wydatki bez zmiany miejsca zakupu okularów i soczewek.",
+          "value": "Potencjalna roczna korzyść: CHF 156"
+        },
+        {
+          "name": "Sophie, 31",
+          "focus": "Fitness i profilaktyka",
+          "body": "Sophie regularnie trenuje siłowo i płaci CHF 900 rocznie za karnet na siłownię. Przeszła na CSS Livo Top, które obejmuje dopłaty do uznanych centrów fitness i działań prozdrowotnych, a także szersze świadczenia ambulatoryjne. Jej składka dodatkowa wzrosła o CHF 15 miesięcznie (CHF 180 rocznie). Dzięki rocznej dopłacie do kwalifikowanego karnetu fitness obniżyła koszt utrzymania aktywnego stylu życia i zyskała dodatkowe świadczenia ambulatoryjne, których wcześniej nie miała.",
+          "value": "Potencjalna roczna korzyść: CHF 320"
+        }
+      ]
+    }
+  },
+  "COOKIE": {
+    "ariaLabel": "Zgoda na pliki cookie",
+    "title": "Pliki cookie",
+    "description": "Ta strona używa niezbędnych plików cookie do podstawowych funkcji. Za Twoją zgodą opcjonalna analityka pomaga zrozumieć sposób korzystania ze strony. Nie używamy reklamowych plików cookie.",
+    "acceptEssential": "Akceptuj tylko niezbędne",
+    "acceptAll": "Akceptuj wszystkie",
+    "readNotice": "Przeczytaj informację o cookie i prywatności"
+  },
+  "LEGAL": {
+    "title": "Informacje prawne i prywatność",
+    "intro": "Ta strona używa niezbędnych plików cookie do działania i zapamiętania języka. Opcjonalna analityka jest aktywowana dopiero po wybraniu „Akceptuj wszystkie”. Nie używamy reklamowych plików cookie.",
+    "cookieUseTitle": "Do czego używamy plików cookie",
+    "cookieUse1": "Aby strona działała poprawnie",
+    "cookieUse2": "Aby zapamiętać preferencję języka",
+    "cookieUse3": "Aby mierzyć anonimowe korzystanie ze strony wyłącznie po wyrażeniu zgody",
+    "contactTitle": "Kontakt",
+    "contactText": "Jeśli masz pytania dotyczące tej informacji, skontaktuj się z nami przez stronę kontaktową tej witryny."
+  },
+  "INSURANCE_DATA": {
+    "eyebrow": "Wgląd w szwajcarskie open data",
+    "title": "W niektórych kantonach Szwajcarii za tę samą podstawową ochronę płaci się znacznie więcej.",
+    "subtitle": "Wybór kantonu i planu może mocno zmienić koszt, nawet przy tej samej podstawowej ochronie. To zestawienie pokazuje najważniejsze różnice i gdzie dodatki mogą pomóc.",
+    "officialSource": "Oficjalne źródło: {{source}}.",
+    "viewSource": "Zobacz źródło",
+    "loading": "Aktualizuję oficjalne dane o składkach...",
+    "fallback": "Dane na żywo są chwilowo niedostępne; wyświetlam ostatnie zapisane porównanie.",
+    "chart": {
+      "eyebrow": "Oficjalne porównanie składek",
+      "title": "Taryfy podstawowego ubezpieczenia dla dorosłych",
+      "sourceLabel": "Źródło:",
+      "highestBenchmark": "Najwyższy benchmark 2026 (Genewa)",
+      "averageRate": "Średnia zarejestrowana stawka",
+      "lowestBenchmark": "Najniższy benchmark 2026 (Zug)"
+    },
+    "metrics": {
+      "savings": {
+        "label": "Potencjalna roczna oszczędność",
+        "value": "CHF 600-2,000+",
+        "detail": "W zależności od ubezpieczenia dodatkowego i sposobu korzystania, Twoje gospodarstwo domowe może zyskać rocznie CHF 600-2,000+ dzięki benefitom, takim jak karnety fitness, medycyna alternatywna, profilaktyka i inne świadczenia, które inaczej trzeba byłoby opłacić w całości samodzielnie."
+      },
+      "missOut": {
+        "label": "Ilu traci dostępne korzyści",
+        "value": "40%+",
+        "detail": "Ponad 40% osób w Szwajcarii nie korzysta ze świadczeń, za które już zapłaciło - realna wartość pozostaje niewykorzystana."
+      },
+      "supplemental": {
+        "label": "Ilu korzysta z ubezpieczeń dodatkowych",
+        "value": "54%",
+        "detail": "Ponad połowa dorosłych w Szwajcarii wybiera już dodatkowe produkty, więc mądry dobór rozszerzeń może znacząco poprawić efekt finansowy i zakres ochrony."
+      }
+    }
+  }
+}

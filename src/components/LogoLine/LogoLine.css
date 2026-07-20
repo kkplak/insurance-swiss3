@@ -1,0 +1,44 @@
+.logo-line {
+  max-width: var(--content-width);
+  min-height: 74px;
+  margin: 0 auto;
+  padding: 1.2rem var(--page-gutter);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: clamp(1rem, 3vw, 2.5rem);
+  border-block: 1px solid var(--border);
+  background: rgba(255, 255, 255, 0.8);
+}
+
+.static-item,
+.marquee-item {
+  min-width: 70px;
+  display: grid;
+  place-items: center;
+}
+
+.marquee-item {
+  margin: 0 1.2rem;
+}
+
+.logo-image {
+  max-width: 76px;
+  max-height: 30px;
+  object-fit: contain;
+  filter: grayscale(1);
+  opacity: 0.58;
+  transition: filter var(--transition), opacity var(--transition);
+}
+
+.static-item:hover .logo-image,
+.marquee-item:hover .logo-image {
+  filter: grayscale(0);
+  opacity: 1;
+}
+
+@media (max-width: 900px) {
+  .logo-line {
+    max-width: none;
+  }
+}

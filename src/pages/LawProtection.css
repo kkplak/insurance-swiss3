@@ -1,0 +1,13 @@
+.law-protection .section-collumn {
+  align-items: stretch;
+}
+
+.law-protection .column {
+  width: auto;
+}
+
+@media (max-width: 850px) {
+  .law-protection .section-collumn {
+    grid-template-columns: 1fr;
+  }
+}

@@ -1,0 +1,43 @@
+.house-insurance .rows .section-collumn {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.25rem;
+}
+
+.house-insurance .rows .column {
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  overflow: hidden;
+}
+
+.house-insurance .row-text {
+  min-height: 320px;
+  padding: clamp(1.5rem, 4vw, 3rem);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.house-insurance .rows .img-section-container {
+  min-height: 320px;
+}
+
+@media (max-width: 720px) {
+  .house-insurance .rows .column {
+    grid-template-columns: 1fr;
+  }
+
+  .house-insurance .rows .column:nth-child(even) .img-section-container {
+    order: 2;
+  }
+
+  .house-insurance .row-text,
+  .house-insurance .rows .img-section-container {
+    min-height: auto;
+  }
+
+  .house-insurance .rows .img-section-container {
+    height: 260px;
+  }
+}
