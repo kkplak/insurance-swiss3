@@ -391,7 +391,7 @@ p {
 /* Hero */
 .hero-section {
   position: relative;
-  min-height: clamp(650px, calc(100svh - 78px), 860px);
+  min-height: clamp(650px, 82vh, 860px);
   overflow: hidden;
   color: #fff;
   background: var(--navy);
@@ -1018,7 +1018,7 @@ p {
   }
 
   .hero-section {
-    min-height: calc(100svh - 70px);
+    min-height: min(82vh, 760px);
   }
 
   .hero-title {
@@ -1061,9 +1061,8 @@ p {
 
 @media (max-width: 640px) {
   .hero-section {
-    min-height: clamp(620px, 92svh, 780px);
-    padding-bottom: 1.25rem;
-    padding-bottom: calc(1.25rem + env(safe-area-inset-bottom));
+    min-height: clamp(620px, 84vh, 760px);
+    padding-bottom: 1rem;
   }
 
   .hero-overlay {
@@ -1099,13 +1098,11 @@ p {
   }
 
   .hero-dots {
-    padding-bottom: 2.25rem;
-    padding-bottom: calc(2.25rem + env(safe-area-inset-bottom));
+    padding-bottom: 1.5rem;
   }
 
   .trust-strip {
     padding-top: 0.35rem;
-    padding-bottom: env(safe-area-inset-bottom);
   }
 
   .trust-item {
