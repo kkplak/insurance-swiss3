@@ -31,6 +31,7 @@ const Home: React.FC = () => {
     "/media/hero-4.jpg",
     "/media/hero-1.jpg",
     "/media/hero-2.jpg",
+    "/media/hero-5.jpg",
   ];
   const [activeHeroIndex, setActiveHeroIndex] = React.useState(0);
 
@@ -92,10 +93,10 @@ const Home: React.FC = () => {
         <div className="hero-overlay">
           <div className="hero-content">
             <div className="hero-card">
-              <p className="hero-badge">
+              {/* <p className="hero-badge">
                 <span aria-hidden="true" />
                 {t("HOME.heroBadge")}
-              </p>
+              </p> */}
               <h1 id="hero-title" className="hero-title">{t("HOME.heroTitle")}</h1>
               <p className="hero-lead">{t("HOME.heroLead")}</p>
               <p className="hero-subcopy">{t("HOME.heroSubcopy")}</p>

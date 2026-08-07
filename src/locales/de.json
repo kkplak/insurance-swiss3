@@ -44,7 +44,7 @@
     "lukasz": "Lukasz",
     "lukaszBergel": "Lukasz Bergel",
     "lukaszPhone": "+41 79 482 38 96",
-    "lukaszMail": "lukasz@protegos.ch",
+    "lukaszMail": "bergel@myhealth.gmbh",
     "aboutUs": "Über mich",
     "aboutUsContent": "Ich unterstütze Privatpersonen und Familien in der Schweiz mit persönlicher Versicherungsberatung, klarer Orientierung und fachkundigem Service.",
     "aboutLukasz": "Lukasz ist ein engagierter Versicherungsagent mit über zehn Jahren Branchenerfahrung. Sein tiefgehendes Verständnis verschiedener Versicherungsprodukte und sein Engagement für kontinuierliche Verbesserung sorgen dafür, dass er stets über die neuesten Trends und Änderungen auf dem Versicherungsmarkt informiert ist. Lukasz glaubt daran, langfristige Beziehungen zu seinen Kunden aufzubauen, basierend auf Vertrauen, Transparenz und gegenseitigem Respekt. Er nimmt sich die Zeit, die individuelle Situation jedes Kunden zu verstehen und bietet maßgeschneiderte Versicherungslösungen, die den bestmöglichen Schutz zu den wettbewerbsfähigsten Preisen gewährleisten. Lukasz spricht fließend Polnisch, Deutsch und Englisch, was ihm ermöglicht, effektiv mit einer vielfältigen Kundschaft zu kommunizieren und personalisierte Dienstleistungen anzubieten, die ihren spezifischen Bedürfnissen entsprechen. Sein sorgfältiger Ansatz, verbunden mit aufrichtigem Interesse am Wohl seiner Kunden, macht ihn zu einem zuverlässigen und vertrauenswürdigen Berater für alle Ihre Versicherungsbedürfnisse."
@@ -335,7 +335,7 @@
     "advisorLabel": "Persönlicher Versicherungsberater",
     "profileEyebrow": "Ihr direkter Ansprechpartner",
     "profileTitle": "Klare Antworten von jemandem, der Ihre Situation wirklich verstehen möchte.",
-    "experienceValue": "10+ Jahre",
+    "experienceValue": "5+ Jahre",
     "experienceLabel": "Branchenerfahrung",
     "languagesValue": "PL · DE · EN",
     "languagesLabel": "Beratung in Ihrer Sprache",
@@ -383,8 +383,8 @@
     "partnersEyebrow": "Marktüberblick",
     "partnersTitle": "Lösungen etablierter Anbieter vergleichen",
     "trust": {
-      "label": "Warum Protegos",
-      "experience": "10+ Jahre",
+      "label": "Warum MyHealth",
+      "experience": "5+ Jahre",
       "experienceText": "Versicherungserfahrung",
       "languages": "Drei Sprachen",
       "languagesText": "Polnisch, Deutsch, Englisch",
@@ -433,6 +433,7 @@
     "title": "Cookies",
     "description": "Diese Website verwendet notwendige Cookies für zentrale Funktionen. Mit Ihrer Zustimmung helfen optionale Analysedaten, die Nutzung der Website zu verstehen. Es werden keine Werbe-Cookies verwendet.",
     "acceptEssential": "Nur notwendige Cookies akzeptieren",
+    "rejectAll": "Alle ablehnen",
     "acceptAll": "Alle akzeptieren",
     "readNotice": "Hinweis zu Cookies und Datenschutz lesen"
   },

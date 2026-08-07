@@ -45,7 +45,7 @@
     "lukasz": "Lukasz",
     "lukaszBergel": "Lukasz Bergel",
     "lukaszPhone": "Tel. +41 79 482 38 96",
-    "lukaszMail": "Mail: lukasz@protegos.ch",
+    "lukaszMail": "Mail: bergel@myhealth.gmbh",
     "aboutUs": "About Me",
     "aboutUsContent": "I support individuals and families in Switzerland with personal insurance advice, clear guidance, and expert service.",
     "aboutLukasz": "Lukasz is a dedicated insurance agent with over a decade of experience in the industry. His deep understanding of various insurance products and commitment to continuous improvement ensure that he is always up-to-date with the latest trends and changes in the insurance market. Lukasz believes in building long-term relationships with clients based on trust, transparency, and mutual respect. He takes the time to understand each client's individual situation and offers tailored insurance solutions that provide the best protection at the most competitive prices. Lukasz is fluent in Polish, German, and English, allowing him to communicate effectively with a diverse clientele and deliver personalized services that meet their specific needs. His meticulous approach, combined with genuine care for his clients' well-being, makes him a reliable and trustworthy advisor for all your insurance needs."
@@ -336,7 +336,7 @@
     "advisorLabel": "Personal insurance advisor",
     "profileEyebrow": "Your point of contact",
     "profileTitle": "Clear answers from someone who takes the time to understand.",
-    "experienceValue": "10+ years",
+    "experienceValue": "5+ years",
     "experienceLabel": "Industry experience",
     "languagesValue": "PL · DE · EN",
     "languagesLabel": "Advice in your language",
@@ -384,8 +384,8 @@
     "partnersEyebrow": "Market overview",
     "partnersTitle": "Compare solutions from established providers",
     "trust": {
-      "label": "Why work with Protegos",
-      "experience": "10+ years",
+      "label": "Why work with MyHealth",
+      "experience": "5+ years",
       "experienceText": "Insurance experience",
       "languages": "Three languages",
       "languagesText": "Polish, German, English",
@@ -434,6 +434,7 @@
     "title": "Cookies",
     "description": "This site uses essential cookies for core functions. With your consent, optional analytics help us understand how the site is used. No advertising cookies are used.",
     "acceptEssential": "Accept essential cookies",
+    "rejectAll": "Reject all",
     "acceptAll": "Accept all",
     "readNotice": "Read our cookie and privacy notice"
   },

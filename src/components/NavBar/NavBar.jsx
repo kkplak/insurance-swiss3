@@ -32,14 +32,8 @@ const NavBar = () => {
   return (
     <header className="site-header">
       <nav className="nav-bar" aria-label={t("NAV.primaryLabel")}>
-        <Link className="brand" to={`/${language}/home`} aria-label="Protegos home">
-          <span className="brand-mark" aria-hidden="true">
-            <img src="/media/icon-new.png" alt="" />
-          </span>
-          <span className="brand-copy">
-            <span className="brand-name">Protegos</span>
-            <span className="brand-tagline">{t("NAV.tagline")}</span>
-          </span>
+        <Link className="brand" to={`/${language}/home`} aria-label="MyHealth home">
+          <img src="/media/myhealth.png" alt="MyHealth" className="brand-logo" />
         </Link>
 
         <button

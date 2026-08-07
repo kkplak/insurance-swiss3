@@ -14,7 +14,7 @@ const Info: React.FC = () => {
 
   return (
     <div className='container info'>
-      <p className="eyebrow">Protegos</p>
+      <p className="eyebrow">MyHealth</p>
       <h1>{t("GENERAL.homeH1")}</h1>
       <p>{t("GENERAL.heroP2")}</p>
     </div>

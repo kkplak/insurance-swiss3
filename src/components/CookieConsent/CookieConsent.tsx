@@ -1,30 +1,45 @@
 import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import { useTranslation } from "react-i18next";
+import { Analytics } from "@vercel/analytics/react";
 import "./CookieConsent.css";
 
 const STORAGE_KEY = "site-cookie-consent";
-const GA_ID = "G-ND8465JNMM";
 
-type ConsentChoice = "accepted" | "essential";
+type ConsentChoice = "accepted" | "essential" | "rejected";
 
-const enableAnalytics = () => {
-  if (document.querySelector(`script[data-analytics-id="${GA_ID}"]`)) return;
+const enableVercelAnalytics = () => {
+  if (window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1") return;
+  if (document.querySelector('script[data-vercel-analytics="true"]')) return;
 
   const script = document.createElement("script");
-  script.async = true;
-  script.src = `https://www.googletagmanager.com/gtag/js?id=${GA_ID}`;
-  script.dataset.analyticsId = GA_ID;
+  script.defer = true;
+  script.src = "/_vercel/insights/script.js";
+  script.dataset.vercelAnalytics = "true";
   document.head.appendChild(script);
+};
 
-  const analyticsWindow = window as typeof window & {
-    dataLayer?: unknown[][];
-    gtag?: (...args: unknown[]) => void;
-  };
-  analyticsWindow.dataLayer = analyticsWindow.dataLayer || [];
-  analyticsWindow.gtag = (...args: unknown[]) => analyticsWindow.dataLayer?.push(args);
-  analyticsWindow.gtag("js", new Date());
-  analyticsWindow.gtag("config", GA_ID, { anonymize_ip: true });
+export const ConsentAnalytics: React.FC = () => {
+  const [enabled, setEnabled] = useState(false);
+
+  useEffect(() => {
+    const syncConsent = () => {
+      const saved = window.localStorage.getItem(STORAGE_KEY);
+      const shouldEnable = saved === "accepted";
+
+      setEnabled(shouldEnable);
+      if (shouldEnable) {
+        enableVercelAnalytics();
+      }
+    };
+
+    syncConsent();
+    window.addEventListener("storage", syncConsent);
+
+    return () => window.removeEventListener("storage", syncConsent);
+  }, []);
+
+  return enabled ? <Analytics /> : null;
 };
 
 const CookieConsent: React.FC = () => {
@@ -34,7 +49,7 @@ const CookieConsent: React.FC = () => {
   useEffect(() => {
     const saved = window.localStorage.getItem(STORAGE_KEY);
     if (saved === "accepted") {
-      enableAnalytics();
+      enableVercelAnalytics();
     } else if (!saved) {
       setVisible(true);
     }
@@ -42,7 +57,9 @@ const CookieConsent: React.FC = () => {
 
   const handleAccept = (value: ConsentChoice) => {
     window.localStorage.setItem(STORAGE_KEY, value);
-    if (value === "accepted") enableAnalytics();
+    if (value === "accepted") {
+      enableVercelAnalytics();
+    }
     setVisible(false);
   };
 
@@ -62,6 +79,9 @@ const CookieConsent: React.FC = () => {
         <div className="cookie-banner__actions">
           <button type="button" className="cookie-banner__button cookie-banner__button--secondary" onClick={() => handleAccept("essential")}>
             {t("COOKIE.acceptEssential")}
+          </button>
+          <button type="button" className="cookie-banner__button cookie-banner__button--secondary" onClick={() => handleAccept("rejected")}>
+            {t("COOKIE.rejectAll")}
           </button>
           <button type="button" className="cookie-banner__button" onClick={() => handleAccept("accepted")}>
             {t("COOKIE.acceptAll")}

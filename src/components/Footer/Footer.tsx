@@ -19,10 +19,10 @@ const Footer: React.FC = () => {
     <footer className="footer">
       <div className="footer-inner">
         <div className="footer-brand">
-          <Link className="footer-logo" to={`/${language}/home`}>
-            <span className="footer-logo__mark"><img src="/media/icon-new.png" alt="" /></span>
-            <span>Protegos</span>
-          </Link>
+          <a className="footer-logo" href="https://www.myhealth.gmbh" target="_blank" rel="noreferrer">
+            <span className="footer-logo__mark"><img src="/media/myhealth.png" alt="" /></span>
+            <span>MyHealth</span>
+          </a>
           <p className="footer-copy">{t("GENERAL.aboutUsContent")}</p>
           <p className="footer-advisor">{t("FOOTER.advisor")}: <strong>{t("GENERAL.lukaszBergel")}</strong></p>
         </div>
@@ -47,7 +47,7 @@ const Footer: React.FC = () => {
         </div>
       </div>
       <div className="footer-bottom">
-        <p>© {currentYear} Protegos. {t("FOOTER.rights")}</p>
+        <p>© {currentYear} MyHealth. {t("FOOTER.rights")}</p>
         <p>{t("FOOTER.disclaimer")}</p>
       </div>
     </footer>

@@ -35,7 +35,7 @@ const AboutUs = () => {
 
       <section className="about-profile section-shell" aria-labelledby="about-profile-title">
         <div className="about-portrait-card">
-          <img src="/media/lukasz1.jpeg" alt={t("GENERAL.lukaszBergel")} />
+          <img src="/media/lukasz.png" alt={t("GENERAL.lukaszBergel")} />
           <div className="about-portrait-caption">
             <span>{t("ABOUT.advisorLabel")}</span>
             <strong>{t("GENERAL.lukaszBergel")}</strong>

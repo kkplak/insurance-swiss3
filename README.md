@@ -1,4 +1,4 @@
-# Protegos Insurance Switzerland
+# MyHealth Insurance Switzerland
 
 A multilingual insurance advisory website built with React, TypeScript, and Vite. The site supports English, German, and Polish, with responsive product guides, contact capture, and consent-aware analytics.
 

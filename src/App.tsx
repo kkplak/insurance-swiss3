@@ -42,7 +42,7 @@ const resources = {
 
 const supportedLanguages = ["en", "de", "pl"] as const;
 type SupportedLanguage = (typeof supportedLanguages)[number];
-const LANGUAGE_STORAGE_KEY = "protegos-language";
+const LANGUAGE_STORAGE_KEY = "myhealth-language";
 
 const isSupportedLanguage = (value?: string | null): value is SupportedLanguage =>
   Boolean(value && supportedLanguages.includes(value as SupportedLanguage));
@@ -51,8 +51,7 @@ const getPreferredLanguage = (): SupportedLanguage => {
   const savedLanguage = window.localStorage.getItem(LANGUAGE_STORAGE_KEY);
   if (isSupportedLanguage(savedLanguage)) return savedLanguage;
 
-  const browserLanguage = window.navigator.language.split("-")[0];
-  return isSupportedLanguage(browserLanguage) ? browserLanguage : "pl";
+  return "pl";
 };
 
 i18next.use(initReactI18next).init({

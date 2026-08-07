@@ -44,7 +44,7 @@
     "lukasz": "Łukasz",
     "lukaszBergel": "Łukasz Bergel",
     "lukaszPhone": "Tel. +41 79 482 38 96",
-    "lukaszMail": "Mail: lukasz@protegos.ch",
+    "lukaszMail": "Mail: bergel@myhealth.gmbh",
     "aboutUs": "O mnie",
     "aboutUsContent": "Wspieram osoby i rodziny w Szwajcarii poprzez osobiste doradztwo ubezpieczeniowe, jasne wytyczne i fachową obsługę.",
     "aboutLukasz": "Łukasz jest oddanym agentem ubezpieczeniowym z ponad dziesięcioletnim doświadczeniem w branży. Jego dogłębne zrozumienie różnych produktów ubezpieczeniowych oraz zaangażowanie w ciągłe doskonalenie sprawiają, że zawsze jest na bieżąco z najnowszymi trendami i zmianami na rynku ubezpieczeniowym. Łukasz wierzy w budowanie długoterminowych relacji z klientami opartych na zaufaniu, przejrzystości i wzajemnym szacunku. Poświęca czas na zrozumienie indywidualnej sytuacji każdego klienta i oferuje dostosowane rozwiązania ubezpieczeniowe, które zapewniają najlepszą ochronę w najbardziej konkurencyjnych cenach. Łukasz biegle posługuje się językiem polskim, niemieckim i angielskim, co pozwala mu skutecznie komunikować się z różnorodną klientelą i świadczyć spersonalizowane usługi odpowiadające ich specyficznym potrzebom. Jego skrupulatne podejście, połączone z autentyczną troską o dobro klientów, czyni go niezawodnym i godnym zaufania doradcą w zakresie wszelkich potrzeb ubezpieczeniowych."
@@ -339,7 +339,7 @@
     "advisorLabel": "Osobisty doradca ubezpieczeniowy",
     "profileEyebrow": "Twój bezpośredni kontakt",
     "profileTitle": "Jasne odpowiedzi od osoby, która naprawdę chce zrozumieć Twoją sytuację.",
-    "experienceValue": "10+ lat",
+    "experienceValue": "5+ lat",
     "experienceLabel": "Doświadczenia w branży",
     "languagesValue": "PL · DE · EN",
     "languagesLabel": "Doradztwo w Twoim języku",
@@ -387,8 +387,8 @@
     "partnersEyebrow": "Przegląd rynku",
     "partnersTitle": "Porównuj rozwiązania uznanych ubezpieczycieli",
     "trust": {
-      "label": "Dlaczego Protegos",
-      "experience": "10+ lat",
+      "label": "Dlaczego MyHealth",
+      "experience": "5+ lat",
       "experienceText": "Doświadczenia ubezpieczeniowego",
       "languages": "Trzy języki",
       "languagesText": "Polski, niemiecki, angielski",
@@ -437,6 +437,7 @@
     "title": "Pliki cookie",
     "description": "Ta strona używa niezbędnych plików cookie do podstawowych funkcji. Za Twoją zgodą opcjonalna analityka pomaga zrozumieć sposób korzystania ze strony. Nie używamy reklamowych plików cookie.",
     "acceptEssential": "Akceptuj tylko niezbędne",
+    "rejectAll": "Odrzuć wszystkie",
     "acceptAll": "Akceptuj wszystkie",
     "readNotice": "Przeczytaj informację o cookie i prywatności"
   },
