@@ -1061,7 +1061,7 @@ p {
 
 @media (max-width: 640px) {
   .hero-section {
-    min-height: auto;
+    min-height: clamp(560px, 88svh, 760px);
     padding-bottom: 0.5rem;
   }
 
