@@ -806,6 +806,8 @@ p {
   height: 100%;
   object-fit: cover;
   object-position: center top;
+  display: block;
+  background: linear-gradient(135deg, rgba(11, 36, 64, 0.06), rgba(11, 36, 64, 0.14));
 }
 
 .about-portrait-caption {

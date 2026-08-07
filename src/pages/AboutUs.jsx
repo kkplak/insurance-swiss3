@@ -52,6 +52,10 @@ const AboutUs = () => {
             alt={t("GENERAL.lukaszBergel")}
             loading="eager"
             fetchPriority="high"
+            decoding="async"
+            onError={(event) => {
+              event.currentTarget.style.display = "none";
+            }}
           />
           <div className="about-portrait-caption">
             <span>{t("ABOUT.advisorLabel")}</span>
