@@ -1065,6 +1065,10 @@ p {
     padding-bottom: 1rem;
   }
 
+  .hero-slide {
+    object-position: 75% center;
+  }
+
   .hero-overlay {
     background: linear-gradient(90deg, rgba(5, 23, 40, 0.92), rgba(6, 28, 48, 0.62));
     align-items: flex-start;
