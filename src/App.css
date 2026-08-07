@@ -1060,19 +1060,25 @@ p {
 }
 
 @media (max-width: 640px) {
+  .hero-section {
+    min-height: auto;
+    padding-bottom: 0.5rem;
+  }
+
   .hero-overlay {
     background: linear-gradient(90deg, rgba(5, 23, 40, 0.92), rgba(6, 28, 48, 0.62));
+    align-items: flex-start;
   }
 
   .hero-content {
     align-items: stretch;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-start;
     gap: 0;
   }
 
   .hero-card {
-    padding: 4rem 0 1.5rem;
+    padding: 4rem 0 1.25rem;
   }
 
   .hero-title {
@@ -1092,7 +1098,15 @@ p {
   }
 
   .hero-dots {
-    padding-bottom: 2.5rem;
+    padding-bottom: 1.75rem;
+  }
+
+  .trust-strip {
+    padding-top: 0.35rem;
+  }
+
+  .trust-item {
+    padding-block: 1.1rem;
   }
 
   .about-facts {
