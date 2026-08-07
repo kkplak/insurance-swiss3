@@ -27,7 +27,7 @@ const AboutUs = () => {
     const link = document.createElement("link");
     link.rel = "preload";
     link.as = "image";
-    link.href = "/media/lukasz.png";
+    link.href = "/media/lukasz1.png";
     document.head.appendChild(link);
 
     return () => {
@@ -48,7 +48,7 @@ const AboutUs = () => {
       <section className="about-profile section-shell" aria-labelledby="about-profile-title">
         <div className="about-portrait-card">
           <img
-            src="/media/lukasz.png"
+            src="/media/lukasz1.png"
             alt={t("GENERAL.lukaszBergel")}
             loading="eager"
             fetchPriority="high"
