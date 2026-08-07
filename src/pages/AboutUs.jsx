@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { ArrowRight, CheckCircle2, Languages, MapPin, ShieldCheck } from "lucide-react";
 import { useTranslation } from "react-i18next";
 import { Link, useLocation } from "react-router-dom";
@@ -23,6 +23,18 @@ const AboutUs = () => {
     { title: t("ABOUT.principle3Title"), text: t("ABOUT.principle3Text") },
   ];
 
+  useEffect(() => {
+    const link = document.createElement("link");
+    link.rel = "preload";
+    link.as = "image";
+    link.href = "/media/lukasz.png";
+    document.head.appendChild(link);
+
+    return () => {
+      link.remove();
+    };
+  }, []);
+
   return (
     <div className="about-page">
       <header className="page-hero page-hero--centered">
@@ -35,7 +47,12 @@ const AboutUs = () => {
 
       <section className="about-profile section-shell" aria-labelledby="about-profile-title">
         <div className="about-portrait-card">
-          <img src="/media/lukasz.png" alt={t("GENERAL.lukaszBergel")} />
+          <img
+            src="/media/lukasz.png"
+            alt={t("GENERAL.lukaszBergel")}
+            loading="eager"
+            fetchPriority="high"
+          />
           <div className="about-portrait-caption">
             <span>{t("ABOUT.advisorLabel")}</span>
             <strong>{t("GENERAL.lukaszBergel")}</strong>
