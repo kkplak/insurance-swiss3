@@ -1061,8 +1061,9 @@ p {
 
 @media (max-width: 640px) {
   .hero-section {
-    min-height: clamp(560px, 88svh, 760px);
-    padding-bottom: 0.5rem;
+    min-height: clamp(620px, 92svh, 780px);
+    padding-bottom: 1.25rem;
+    padding-bottom: calc(1.25rem + env(safe-area-inset-bottom));
   }
 
   .hero-overlay {
@@ -1078,7 +1079,7 @@ p {
   }
 
   .hero-card {
-    padding: 4rem 0 1.25rem;
+    padding: 4rem 0 1.5rem;
   }
 
   .hero-title {
@@ -1098,11 +1099,13 @@ p {
   }
 
   .hero-dots {
-    padding-bottom: 1.75rem;
+    padding-bottom: 2.25rem;
+    padding-bottom: calc(2.25rem + env(safe-area-inset-bottom));
   }
 
   .trust-strip {
     padding-top: 0.35rem;
+    padding-bottom: env(safe-area-inset-bottom);
   }
 
   .trust-item {
