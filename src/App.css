@@ -392,16 +392,19 @@ p {
 .hero-section {
   position: relative;
   min-height: clamp(650px, 82vh, 860px);
-  overflow: hidden;
   color: #fff;
   background: var(--navy);
 }
 
 .hero-media,
-.hero-slide,
-.hero-overlay {
+.hero-slide {
   position: absolute;
   inset: 0;
+}
+
+.hero-media {
+  overflow: hidden;
+  z-index: 0;
 }
 
 .hero-slide {
@@ -420,6 +423,9 @@ p {
 }
 
 .hero-overlay {
+  position: relative;
+  z-index: 1;
+  min-height: inherit;
   display: flex;
   align-items: center;
   background:
@@ -1064,6 +1070,9 @@ p {
 @media (max-width: 640px) {
   .hero-section {
     min-height: clamp(620px, 84vh, 760px);
+  }
+
+  .hero-overlay {
     padding-bottom: 1rem;
   }
 
